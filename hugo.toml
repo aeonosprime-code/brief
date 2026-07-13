@@ -1,0 +1,31 @@
+baseURL = 'https://aeonos.github.io/brief/'
+locale = 'en-us'
+title = 'Brief — Daily Signal Digest'
+theme = 'terminal'
+
+[params]
+  fullWidthTheme = false
+  centerTheme = true
+  colorTheme = "blue"
+
+[languages]
+  [languages.en]
+    subtitle = "Your daily signal digest. 5 minutes. No noise."
+
+[[menu.main]]
+  identifier = "today"
+  name = "Today"
+  url = "/today/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "/archive/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 3
