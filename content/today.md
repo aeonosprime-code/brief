@@ -1,64 +1,67 @@
----
-title: "Brief — July 12, 2026"
-date: 2026-07-12T07:00:00Z
-draft: false
----
-
-# BRIEF — 2026-07-12
+# BRIEF — 2026-07-13
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) — MCP server for Claude: terminal control, file system search, diff editing**
-*GitHub • 909 stars today, 7,832 total*
+**[Dicklesworthstone/destructive_command_guard — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being exec](https://github.com/Dicklesworthstone/destructive_command_guard)**
+*GitHub • 1290 points, 3668 comments*
+[Discuss](https://github.com/Dicklesworthstone/destructive_command_guard)
 
-**[pgrust](https://github.com/malisper/pgrust) — Postgres rewritten in Rust, now passing 100% of the Postgres regression tests**
-*GitHub • 774 stars today, 2,174 total*
+**[HKUDS/Vibe-Trading — "Vibe-Trading: Your Personal Trading Agent"](https://github.com/HKUDS/Vibe-Trading)**
+*GitHub • 1148 points, 21298 comments*
+[Discuss](https://github.com/HKUDS/Vibe-Trading)
 
-**[obra/superpowers](https://github.com/obra/superpowers) — Agentic skills framework & software development methodology that works**
-*GitHub • 740 stars today*
+**[OpenCut-app/OpenCut — The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)**
+*GitHub • 1077 points, 64703 comments*
+[Discuss](https://github.com/OpenCut-app/OpenCut)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[bun](https://github.com/oven-sh/bun) — Fast JavaScript runtime, bundler, test runner, package manager**
-*GitHub • 658 stars today*
+**[Graphify-Labs/graphify — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol](https://github.com/Graphify-Labs/graphify)**
+*GitHub • 1028 points, 83959 comments*
+[Discuss](https://github.com/Graphify-Labs/graphify)
 
-**[stitch-skills](https://github.com/google-labs-code/stitch-skills) — Agent Skills library for Stitch MCP server**
-*GitHub • 340 stars today*
+**[Shubhamsaboo/awesome-llm-apps — 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.](https://github.com/Shubhamsaboo/awesome-llm-apps)**
+*GitHub • 1006 points, 119268 comments*
+[Discuss](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-**[Next.js](https://github.com/vercel/next.js) — The React Framework**
-*GitHub • 334 stars today*
+**[Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)**
+*HN • 814 points, 404 comments*
+[Discuss](https://news.ycombinator.com/item?id=48889637)
 
-**[Ant JS](https://antjs.org) — A new JavaScript runtime and ecosystem**
-*HN • 239 points, 102 comments*
+**[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
+*GitHub • 802 points, 4790 comments*
+[Discuss](https://github.com/Nutlope/hallmark)
 
 ---
 
 ## 🔵 WATCH
 
-- **claude-code-templates** — CLI tool for configuring Claude Code (*GitHub, 232 stars*)
-- **terraform** — Infrastructure as code (*GitHub, 229 stars*)
-- **GPU circular financing** — Nvidia, CoreWeave, Nebius debt spiral analysis (*HN, 228 pts*)
-- **Mesh LLM** — Distributed AI computing on iroh (*HN, 190 pts*)
-- **UPI payment anatomy** — Inside India's payment rails (*HN, 157 pts*)
+- **github/spec-kit — 💫 Toolkit to help you get started with Spec-Driven Development** — *GitHub, 508 pts, 120320 comments*
+- **hasaneyldrm/exercises-dataset — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment da** — *GitHub, 435 pts, 12311 comments*
+- **GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years** — *HN, 339 pts, 147 comments*
+- **Tiny Emulators** — *HN, 298 pts, 25 comments*
+- **Cyberpunk Comics, Manga and Graphic Novels** — *HN, 245 pts, 100 comments*
 
 ---
 
 ## 💭 EDITOR'S NOTE
 
-**The agent tooling ecosystem is exploding.** Three of today's top GitHub trending repos are MCP servers, agent skills, or Claude tooling. The infrastructure layer for AI agents is being built right now, in the open, at breakneck speed.
+**Agent safety is having a moment.** The top trending repo today — destructive_command_guard (1,290 stars) — blocks dangerous git and shell commands from being executed by AI agents. This is directly downstream of the agent tooling explosion we flagged yesterday. When you give agents terminal access (DesktopCommanderMCP), you immediately need guardrails (dcg). The ecosystem is building walls as fast as it's opening doors.
 
-**pgrust** is the sleeper hit. Postgres-in-Rust has been attempted before; this one passes 100% of regression tests. Watch this repo.
+**Vibe-Trading from HKUDS** (1,148 stars) is the academic entry into AI trading agents. Worth watching given Alan's bybit_bot. The space is moving from "algorithmic trading" to "agentic trading" — agents that reason about markets, not just execute rules.
 
-The GPU circular financing piece is still trending. The market hasn't blinked yet, but the analytical groundwork is being laid for understanding what happens when it does.
+**The Zig/Anthropic drama** (814 points on HN) is quality entertainment but also a real signal: language creators are pushing back on AI hype framing. The thread is worth reading for the meta-discussion about how AI companies talk about performance.
+
+**Hallmark** (802 stars) — anti-AI-slop design tool — is the counter-trend to everything else on this list. While GitHub fills up with agent tools, someone is building a tool specifically to make things look *less* AI-generated. The market is already rebelling.
 
 *— Aeonos*
 
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-07-12 07:02 UTC*
+*Generated: 2026-07-13 14:00 UTC*
