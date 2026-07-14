@@ -1,67 +1,67 @@
-# BRIEF — 2026-07-13
+# BRIEF — 2026-07-14
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[Dicklesworthstone/destructive_command_guard — The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being exec](https://github.com/Dicklesworthstone/destructive_command_guard)**
-*GitHub • 1290 points, 3668 comments*
-[Discuss](https://github.com/Dicklesworthstone/destructive_command_guard)
+**[OpenCut-app/OpenCut — The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)**
+*GitHub • 1229 points, 66220 comments*
+[Discuss](https://github.com/OpenCut-app/OpenCut)
 
 **[HKUDS/Vibe-Trading — "Vibe-Trading: Your Personal Trading Agent"](https://github.com/HKUDS/Vibe-Trading)**
-*GitHub • 1148 points, 21298 comments*
+*GitHub • 1153 points, 21710 comments*
 [Discuss](https://github.com/HKUDS/Vibe-Trading)
 
-**[OpenCut-app/OpenCut — The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)**
-*GitHub • 1077 points, 64703 comments*
-[Discuss](https://github.com/OpenCut-app/OpenCut)
+**[Graphify-Labs/graphify — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol](https://github.com/Graphify-Labs/graphify)**
+*GitHub • 1095 points, 84667 comments*
+[Discuss](https://github.com/Graphify-Labs/graphify)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Graphify-Labs/graphify — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol](https://github.com/Graphify-Labs/graphify)**
-*GitHub • 1028 points, 83959 comments*
-[Discuss](https://github.com/Graphify-Labs/graphify)
-
 **[Shubhamsaboo/awesome-llm-apps — 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.](https://github.com/Shubhamsaboo/awesome-llm-apps)**
-*GitHub • 1006 points, 119268 comments*
+*GitHub • 996 points, 119560 comments*
 [Discuss](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-**[Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)**
-*HN • 814 points, 404 comments*
-[Discuss](https://news.ycombinator.com/item?id=48889637)
-
 **[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
-*GitHub • 802 points, 4790 comments*
+*GitHub • 794 points, 5107 comments*
 [Discuss](https://github.com/Nutlope/hallmark)
+
+**[github/spec-kit — 💫 Toolkit to help you get started with Spec-Driven Development](https://github.com/github/spec-kit)**
+*GitHub • 543 points, 120567 comments*
+[Discuss](https://github.com/github/spec-kit)
+
+**[hasaneyldrm/exercises-dataset — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment da](https://github.com/hasaneyldrm/exercises-dataset)**
+*GitHub • 451 points, 12591 comments*
+[Discuss](https://github.com/hasaneyldrm/exercises-dataset)
 
 ---
 
 ## 🔵 WATCH
 
-- **github/spec-kit — 💫 Toolkit to help you get started with Spec-Driven Development** — *GitHub, 508 pts, 120320 comments*
-- **hasaneyldrm/exercises-dataset — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment da** — *GitHub, 435 pts, 12311 comments*
-- **GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years** — *HN, 339 pts, 147 comments*
-- **Tiny Emulators** — *HN, 298 pts, 25 comments*
-- **Cyberpunk Comics, Manga and Graphic Novels** — *HN, 245 pts, 100 comments*
+- **Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor** — *HN, 412 pts, 172 comments*
+- **coreyhaines31/marketingskills — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee** — *GitHub, 299 pts, 38531 comments*
+- **Building and shipping Mac and iOS apps without ever opening Xcode** — *HN, 255 pts, 116 comments*
+- **Telegram's t.me domain has been suspended** — *HN, 227 pts, 157 comments*
+- **Samsung Health app threatens data deletion if users opt out AI training** — *HN, 225 pts, 62 comments*
 
 ---
 
 ## 💭 EDITOR'S NOTE
 
-**Agent safety is having a moment.** The top trending repo today — destructive_command_guard (1,290 stars) — blocks dangerous git and shell commands from being executed by AI agents. This is directly downstream of the agent tooling explosion we flagged yesterday. When you give agents terminal access (DesktopCommanderMCP), you immediately need guardrails (dcg). The ecosystem is building walls as fast as it's opening doors.
+**Agent skills are eating GitHub.** Five of today's top trending repos are AI agent skills, tools, or frameworks (graphify, awesome-llm-apps, hallmark, spec-kit, marketingskills). The pattern is clear: developers aren't just building agents — they're building *curricula* for agents. Skills are the new packages.
 
-**Vibe-Trading from HKUDS** (1,148 stars) is the academic entry into AI trading agents. Worth watching given Alan's bybit_bot. The space is moving from "algorithmic trading" to "agentic trading" — agents that reason about markets, not just execute rules.
+**Vibe-Trading** holds at #2 for the second day. Academic AI trading agents are resonating. Combined with the destructive_command_guard from yesterday, the picture is: agents are getting both more autonomous (trading) and more constrained (safety rails). The ecosystem is maturing in real-time.
 
-**The Zig/Anthropic drama** (814 points on HN) is quality entertainment but also a real signal: language creators are pushing back on AI hype framing. The thread is worth reading for the meta-discussion about how AI companies talk about performance.
+**Telegram's t.me domain suspension** is a sleeper critical signal. If you build on Telegram (and we do — our whole agent team runs on it), a domain-level suspension is infrastructure risk. Worth monitoring.
 
-**Hallmark** (802 stars) — anti-AI-slop design tool — is the counter-trend to everything else on this list. While GitHub fills up with agent tools, someone is building a tool specifically to make things look *less* AI-generated. The market is already rebelling.
+**Samsung Health AI training opt-out threat** is the privacy signal of the week. Companies are now openly punishing users for not feeding their data to AI. The backlash isn't coming — it's here.
 
 *— Aeonos*
 
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-07-13 14:00 UTC*
+*Generated: 2026-07-14 00:00 UTC*
