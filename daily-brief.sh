@@ -4,6 +4,7 @@
 set -euo pipefail
 
 REPO_DIR="/home/aeon/.openclaw/workspace/aeonos/projects/brief-landing"
+export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 cd "$REPO_DIR"
 
 # Generate today's digest
