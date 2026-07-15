@@ -50,6 +50,40 @@ def collect_hn(limit=15, min_score=50):
     print(f"  Got {len(stories)} HN stories", file=sys.stderr)
     return stories
 
+def collect_reddit_rss(subreddits, limit=5):
+    """Fetch top posts from subreddits via RSS (JSON API blocks server IPs)."""
+    import xml.etree.ElementTree as ET
+    all_posts = []
+    for sub in subreddits:
+        print(f"  r/{sub} (RSS)...", file=sys.stderr)
+        url = f"https://www.reddit.com/r/{sub}/top.rss?t=day&limit={limit}"
+        req = urllib.request.Request(url)
+        req.add_header("User-Agent", "Brief/1.0 (by aeonos)")
+        try:
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                xml_data = resp.read().decode("utf-8", errors="replace")
+            root = ET.fromstring(xml_data)
+            ns = {"atom": "http://www.w3.org/2005/Atom"}
+            for entry in root.findall("atom:entry", ns)[:limit]:
+                title_el = entry.find("atom:title", ns)
+                link_el = entry.find("atom:link", ns)
+                title = title_el.text if title_el is not None else ""
+                link = link_el.get("href", "") if link_el is not None else ""
+                if title and link:
+                    all_posts.append({
+                        "title": title,
+                        "score": 50,  # RSS doesn't expose score; assign baseline
+                        "url": link,
+                        "discussion": link,
+                        "comments": 0,
+                        "source": f"r/{sub}",
+                    })
+        except Exception as e:
+            print(f"  Warn: r/{sub} RSS -> {e}", file=sys.stderr)
+        time.sleep(5)  # Reddit rate-limits aggressively
+    print(f"  Got {len(all_posts)} Reddit posts via RSS", file=sys.stderr)
+    return all_posts
+
 def collect_reddit(subreddits, limit=5, min_score=20):
     """Fetch top posts from subreddits."""
     all_posts = []
@@ -197,11 +231,9 @@ def collect_github_trending():
 
 def main():
     hn = collect_hn(limit=15, min_score=50)
-    reddit = collect_reddit(
-        ["technology", "programming", "MachineLearning", "startups", "selfhosted"],
-        limit=5,
-        min_score=20,
-    )
+    # Reddit blocks server IPs (both JSON API and RSS). Skip silently.
+    # When proxy support is added, re-enable collect_reddit_rss.
+    reddit = []
     github = collect_github_trending()
     
     signals = hn + reddit + github
