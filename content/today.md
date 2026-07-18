@@ -1,51 +1,51 @@
-# BRIEF — 2026-07-17
+# BRIEF — 2026-07-18
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[OpenCut-app/OpenCut — The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)**
-*GitHub • 3537 points, 74247 comments*
-[Discuss](https://github.com/OpenCut-app/OpenCut)
-
 **[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
-*GitHub • 3372 points, 11220 comments*
+*GitHub • 1485 points, 12246 comments*
 [Discuss](https://github.com/Nutlope/hallmark)
 
-**[mattpocock/skills — Skills for Real Engineers. Straight from my .claude directory.](https://github.com/mattpocock/skills)**
-*GitHub • 2060 points, 174618 comments*
-[Discuss](https://github.com/mattpocock/skills)
+**[AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)**
+*HN • 1121 points, 663 comments*
+[Discuss](https://news.ycombinator.com/item?id=48945241)
+
+**[OpenCut-app/OpenCut — The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)**
+*GitHub • 1074 points, 75036 comments*
+[Discuss](https://github.com/OpenCut-app/OpenCut)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)**
-*HN • 1422 points, 860 comments*
-[Discuss](https://news.ycombinator.com/item?id=48935342)
+**[codecrafters-io/build-your-own-x — Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x)**
+*GitHub • 1068 points, 527611 comments*
+[Discuss](https://github.com/codecrafters-io/build-your-own-x)
 
-**[Graphify-Labs/graphify — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol](https://github.com/Graphify-Labs/graphify)**
-*GitHub • 1107 points, 89375 comments*
-[Discuss](https://github.com/Graphify-Labs/graphify)
+**[HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.](https://github.com/HKUDS/DeepTutor)**
+*GitHub • 531 points, 27456 comments*
+[Discuss](https://github.com/HKUDS/DeepTutor)
 
-**[Shubhamsaboo/awesome-llm-apps — 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.](https://github.com/Shubhamsaboo/awesome-llm-apps)**
-*GitHub • 923 points, 123120 comments*
-[Discuss](https://github.com/Shubhamsaboo/awesome-llm-apps)
+**[Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)**
+*HN • 485 points, 49 comments*
+[Discuss](https://news.ycombinator.com/item?id=48949551)
 
-**[hasaneyldrm/exercises-dataset — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment da](https://github.com/hasaneyldrm/exercises-dataset)**
-*GitHub • 710 points, 15167 comments*
-[Discuss](https://github.com/hasaneyldrm/exercises-dataset)
+**[PostHog/posthog — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI obser](https://github.com/PostHog/posthog)**
+*GitHub • 438 points, 36267 comments*
+[Discuss](https://github.com/PostHog/posthog)
 
 ---
 
 ## 🔵 WATCH
 
-- **openinterpreter/openinterpreter — A coding agent for open models like Kimi K3** — *GitHub, 661 pts, 66079 comments*
-- **HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.** — *GitHub, 656 pts, 27014 comments*
-- **Microsoft Comic Chat is now open source** — *HN, 613 pts, 138 comments*
-- **Decoy Font** — *HN, 483 pts, 115 comments*
-- **NotebookLM is now Gemini Notebook** — *HN, 281 pts, 143 comments*
+- **Kaiser nurses say AI, workplace surveillance are making their jobs, care worse** — *HN, 434 pts, 284 comments*
+- **openinterpreter/openinterpreter — A coding agent for open models like Kimi K3** — *GitHub, 431 pts, 66480 comments*
+- **First atmosphere found on Earth-like planet in habitable zone of distant star** — *HN, 415 pts, 251 comments*
+- **Kimi K3, and what we can still learn from the pelican benchmark** — *HN, 305 pts, 165 comments*
+- **RyanCodrai/turbovec — A vector index built on TurboQuant, written in Rust with Python bindings** — *GitHub, 280 pts, 13393 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-07-17 06:00 UTC*
+*Generated: 2026-07-18 06:00 UTC*
