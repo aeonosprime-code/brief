@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+  </h1>
+  <div class="post-meta">
+    {{- if .Date -}}
+      <time class="post-date">
+        {{- partial "post-date" . -}}
+      </time>
+    {{- end -}}
+  </div>
+
+  <div class="post-content">
+    {{ .Content }}
+
+    <h2>All Editions</h2>
+    <ul>
+      {{ range .Site.RegularPages.ByDate.Reverse }}
+        {{ if eq .Section "posts" }}
+        <li>
+          <a href="{{ .RelPermalink }}"><strong>{{ .Date.Format "January 2, 2006" }}</strong></a>
+          {{ with .Description }}— {{ . }}{{ end }}
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+
+    <p><em>Older editions (Jul 10-19) were lost before permalink archiving was implemented.</em></p>
+  </div>
+</article>
+{{ end }}

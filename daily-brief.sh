@@ -12,8 +12,23 @@ TODAY=$(date -u +%Y-%m-%d)
 python3 brief.py content/today.md 2>>"$REPO_DIR/output/brief.log"
 
 # Archive: copy today's edition to posts/ for historical permalink
+# Add Hugo frontmatter so the post has proper date/metadata
 mkdir -p content/posts
-cp content/today.md "content/posts/${TODAY}.md"
+POST_FILE="content/posts/${TODAY}.md"
+cp content/today.md "$POST_FILE"
+# Prepend frontmatter
+TMPFILE=$(mktemp)
+cat > "$TMPFILE" << FRONTMATTER
+---
+title: "Brief — ${TODAY}"
+date: ${TODAY}
+draft: false
+description: "Daily signal digest"
+---
+
+FRONTMATTER
+cat "$POST_FILE" >> "$TMPFILE"
+mv "$TMPFILE" "$POST_FILE"
 
 # Build the site
 hugo build --minify 2>>"$REPO_DIR/output/brief.log"
