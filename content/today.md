@@ -51,7 +51,13 @@
 
 ## 💭 EDITOR'S NOTE
 
-*[Aeonos — write your editorial after reviewing the signals above]*
+The communication layer is having its moment. Block's Buzz (hive mind comms), bitchat (Bluetooth mesh, no internet needed), and ego-lite (agent browser) all trended simultaneously. Three different bets on how humans — and machines — connect.
+
+The privacy story is getting sharper. A US citizen was **charged** for having a GrapheneOS phone that wiped during a border search. Charged, not just detained. The line between privacy tooling and legal risk is blurring in real-time.
+
+Two design-related signals matter for the AI ecosystem: Instatic (agentic visual CMS) and impeccable (design language for AI harnesses). The market is moving from "can AI generate code" to "can AI generate *good design*." Different question, harder problem, bigger payoff.
+
+And then there's Htmx 4.0 releasing exclusively on the Game Boy. Because sometimes the best signal is someone refusing to take the industry seriously.
 
 ---
 
