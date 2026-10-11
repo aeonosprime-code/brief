@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-10
+# BRIEF — 2026-10-11
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)**
-*GitHub • 14927 points, ⭐ 52,825 stars*
+*GitHub • 25793 points, ⭐ 78,336 stars*
 [Discuss](https://github.com/morluto/rea)
 
 **[boykopovar/AnyPS5 — Tool for automatic PS5 executables porting to Linux and Windows](https://github.com/boykopovar/AnyPS5)**
-*GitHub • 5868 points, ⭐ 23,188 stars*
+*GitHub • 5805 points, ⭐ 27,442 stars*
 [Discuss](https://github.com/boykopovar/AnyPS5)
 
 **[storytold/artcraft — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers](https://github.com/storytold/artcraft)**
-*GitHub • 3752 points, ⭐ 12,107 stars*
+*GitHub • 3222 points, ⭐ 15,033 stars*
 [Discuss](https://github.com/storytold/artcraft)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[cathrynlavery/diagram-design — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram…](https://github.com/cathrynlavery/diagram-design)**
-*GitHub • 1739 points, ⭐ 48,160 stars*
-[Discuss](https://github.com/cathrynlavery/diagram-design)
-
 **[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
-*GitHub • 1687 points, ⭐ 283,107 stars*
+*GitHub • 1736 points, ⭐ 284,827 stars*
 [Discuss](https://github.com/mattpocock/skills)
 
-**[Cloudflare acquires Deno](https://deno.com/blog/cloudflare)**
-*HN • 1147 points, 588 comments*
-[Discuss](https://news.ycombinator.com/item?id=50019911)
+**[cathrynlavery/diagram-design — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44…](https://github.com/cathrynlavery/diagram-design)**
+*GitHub • 1190 points, ⭐ 49,194 stars*
+[Discuss](https://github.com/cathrynlavery/diagram-design)
 
-**[Triple-A Minesweeper](https://minesweeper.mikelacher.com/)**
-*HN • 823 points, 160 comments*
-[Discuss](https://news.ycombinator.com/item?id=50022292)
+**[anthropics/knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork](https://github.com/anthropics/knowledge-work-plugins)**
+*GitHub • 625 points, ⭐ 28,909 stars*
+[Discuss](https://github.com/anthropics/knowledge-work-plugins)
+
+**[hugohe3/ppt-master — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and…](https://github.com/hugohe3/ppt-master)**
+*GitHub • 461 points, ⭐ 59,707 stars*
+[Discuss](https://github.com/hugohe3/ppt-master)
 
 ---
 
 ## 🔵 WATCH
 
-- **anthropics/knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork** — *GitHub, 709 pts, ⭐ 28,397 stars*
-- **YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops** — *HN, 509 pts, 285 comments*
-- **addyosmani/agent-skills — Production-grade engineering skills for AI coding agents.** — *GitHub, 436 pts, ⭐ 104,151 stars*
-- **Typesafe AI raises $870M at $7.5B** — *HN, 328 pts, 237 comments*
-- **alibaba/open-code-review — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool:…** — *GitHub, 326 pts, ⭐ 45,460 stars*
+- **2D Vehicles** — *HN, 411 pts, 92 comments*
+- **The Lightbulb Computer** — *HN, 331 pts, 50 comments*
+- **multica-ai/andrej-karpathy-skills — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's…** — *GitHub, 278 pts, ⭐ 218,439 stars*
+- **Talorys – A self-hosted personal AI agent on Cloudflare's free tier** — *HN, 274 pts, 128 comments*
+- **A city-building game in which the city would prefer you didn't** — *HN, 260 pts, 89 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-10 06:00 UTC*
+*Generated: 2026-10-11 06:00 UTC*
