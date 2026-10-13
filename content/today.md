@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-12
+# BRIEF — 2026-10-13
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)**
-*GitHub • 25599 points, ⭐ 116,811 stars*
+*GitHub • 45327 points, ⭐ 171,122 stars*
 [Discuss](https://github.com/morluto/rea)
 
-**[boykopovar/AnyPS5 — Tool for automatic PS5 executables porting to Linux and Windows](https://github.com/boykopovar/AnyPS5)**
-*GitHub • 3952 points, ⭐ 30,783 stars*
-[Discuss](https://github.com/boykopovar/AnyPS5)
-
 **[storytold/artcraft — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers](https://github.com/storytold/artcraft)**
-*GitHub • 2957 points, ⭐ 18,800 stars*
+*GitHub • 4095 points, ⭐ 22,917 stars*
 [Discuss](https://github.com/storytold/artcraft)
+
+**[cathrynlavery/diagram-design — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44…](https://github.com/cathrynlavery/diagram-design)**
+*GitHub • 2081 points, ⭐ 52,998 stars*
+[Discuss](https://github.com/cathrynlavery/diagram-design)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[cathrynlavery/diagram-design — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44…](https://github.com/cathrynlavery/diagram-design)**
-*GitHub • 1083 points, ⭐ 50,875 stars*
-[Discuss](https://github.com/cathrynlavery/diagram-design)
-
 **[bilawalsidhu/gods-eye-view — A spy satellite simulator in your browser, except the data is real. Live open source spatial…](https://github.com/bilawalsidhu/gods-eye-view)**
-*GitHub • 886 points, ⭐ 52,112 stars*
+*GitHub • 1895 points, ⭐ 54,071 stars*
 [Discuss](https://github.com/bilawalsidhu/gods-eye-view)
 
-**[lyogavin/airllm — AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)**
-*GitHub • 548 points, ⭐ 36,707 stars*
+**[lyogavin/airllm — AirLLM 2.8T LLM inference with single 4GB GPU](https://github.com/lyogavin/airllm)**
+*GitHub • 879 points, ⭐ 37,722 stars*
 [Discuss](https://github.com/lyogavin/airllm)
 
-**[chrislgarry/Apollo-11 — Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.](https://github.com/chrislgarry/Apollo-11)**
-*GitHub • 466 points, ⭐ 74,388 stars*
-[Discuss](https://github.com/chrislgarry/Apollo-11)
+**[Alishahryar1/free-claude-code — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free…](https://github.com/Alishahryar1/free-claude-code)**
+*GitHub • 626 points, ⭐ 59,445 stars*
+[Discuss](https://github.com/Alishahryar1/free-claude-code)
+
+**[Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)**
+*HN • 567 points, 737 comments*
+[Discuss](https://news.ycombinator.com/item?id=50055304)
 
 ---
 
 ## 🔵 WATCH
 
-- **Total Annihilation, rebuilt for modern computers** — *HN, 438 pts, 187 comments*
-- **The gap in shared understanding of LLM capability is widening** — *HN, 377 pts, 533 comments*
-- **Terence Tao: Math 2.0 [pdf]** — *HN, 371 pts, 404 comments*
-- **Google is illegaly cutting forest to build data centers** — *HN, 329 pts, 83 comments*
-- **pytorch/pytorch — Tensors and Dynamic neural networks in Python with strong GPU acceleration** — *GitHub, 315 pts, ⭐ 104,617 stars*
+- **GLM-Legal** — *HN, 505 pts, 292 comments*
+- **A Modern Web App in C** — *HN, 482 pts, 198 comments*
+- **AI is a tool and using it well takes skill** — *HN, 317 pts, 265 comments*
+- **Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver** — *HN, 313 pts, 89 comments*
+- **mksglu/context-mode — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists…** — *GitHub, 246 pts, ⭐ 27,511 stars*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-12 06:00 UTC*
+*Generated: 2026-10-13 06:00 UTC*
