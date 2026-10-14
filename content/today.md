@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-13
+# BRIEF — 2026-10-14
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)**
-*GitHub • 45327 points, ⭐ 171,122 stars*
+*GitHub • 54679 points, ⭐ 216,752 stars*
 [Discuss](https://github.com/morluto/rea)
 
 **[storytold/artcraft — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers](https://github.com/storytold/artcraft)**
-*GitHub • 4095 points, ⭐ 22,917 stars*
+*GitHub • 4081 points, ⭐ 26,312 stars*
 [Discuss](https://github.com/storytold/artcraft)
 
-**[cathrynlavery/diagram-design — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44…](https://github.com/cathrynlavery/diagram-design)**
-*GitHub • 2081 points, ⭐ 52,998 stars*
-[Discuss](https://github.com/cathrynlavery/diagram-design)
+**[bilawalsidhu/gods-eye-view — A spy satellite simulator in your browser, except the data is real. Live open source spatial…](https://github.com/bilawalsidhu/gods-eye-view)**
+*GitHub • 1961 points, ⭐ 55,775 stars*
+[Discuss](https://github.com/bilawalsidhu/gods-eye-view)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[bilawalsidhu/gods-eye-view — A spy satellite simulator in your browser, except the data is real. Live open source spatial…](https://github.com/bilawalsidhu/gods-eye-view)**
-*GitHub • 1895 points, ⭐ 54,071 stars*
-[Discuss](https://github.com/bilawalsidhu/gods-eye-view)
+**[cathrynlavery/diagram-design — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44…](https://github.com/cathrynlavery/diagram-design)**
+*GitHub • 1815 points, ⭐ 54,546 stars*
+[Discuss](https://github.com/cathrynlavery/diagram-design)
 
-**[lyogavin/airllm — AirLLM 2.8T LLM inference with single 4GB GPU](https://github.com/lyogavin/airllm)**
-*GitHub • 879 points, ⭐ 37,722 stars*
-[Discuss](https://github.com/lyogavin/airllm)
+**[debpalash/VoiceStudio — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,…](https://github.com/debpalash/VoiceStudio)**
+*GitHub • 1748 points, ⭐ 64,054 stars*
+[Discuss](https://github.com/debpalash/VoiceStudio)
 
-**[Alishahryar1/free-claude-code — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free…](https://github.com/Alishahryar1/free-claude-code)**
-*GitHub • 626 points, ⭐ 59,445 stars*
-[Discuss](https://github.com/Alishahryar1/free-claude-code)
+**[xtool-org/xtool — Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.](https://github.com/xtool-org/xtool)**
+*GitHub • 1198 points, ⭐ 9,715 stars*
+[Discuss](https://github.com/xtool-org/xtool)
 
-**[Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)**
-*HN • 567 points, 737 comments*
-[Discuss](https://news.ycombinator.com/item?id=50055304)
+**[Gemini 4 Argon](https://deepmind.google/models/gemini/)**
+*HN • 1173 points, 836 comments*
+[Discuss](https://news.ycombinator.com/item?id=50073879)
 
 ---
 
 ## 🔵 WATCH
 
-- **GLM-Legal** — *HN, 505 pts, 292 comments*
-- **A Modern Web App in C** — *HN, 482 pts, 198 comments*
-- **AI is a tool and using it well takes skill** — *HN, 317 pts, 265 comments*
-- **Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver** — *HN, 313 pts, 89 comments*
-- **mksglu/context-mode — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists…** — *GitHub, 246 pts, ⭐ 27,511 stars*
+- **lyogavin/airllm — AirLLM 2.8T LLM inference with single 4GB GPU** — *GitHub, 1001 pts, ⭐ 38,460 stars*
+- **mksglu/context-mode — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists…** — *GitHub, 969 pts, ⭐ 28,444 stars*
+- **Redesigning source control at Anthropic** — *HN, 668 pts, 641 comments*
+- **Ledger confirms spy chip implant behind wallet crypto thefts** — *HN, 587 pts, 391 comments*
+- **Thunderbird for iOS** — *HN, 398 pts, 173 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-13 06:00 UTC*
+*Generated: 2026-10-14 06:00 UTC*
