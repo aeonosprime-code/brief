@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-14
+# BRIEF — 2026-10-15
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)**
-*GitHub • 54679 points, ⭐ 216,752 stars*
+*GitHub • 41034 points, ⭐ 249,807 stars*
 [Discuss](https://github.com/morluto/rea)
 
-**[storytold/artcraft — ArtCraft is an intentional crafting engine for artists, designers, and filmmakers](https://github.com/storytold/artcraft)**
-*GitHub • 4081 points, ⭐ 26,312 stars*
-[Discuss](https://github.com/storytold/artcraft)
+**[debpalash/VoiceStudio — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,…](https://github.com/debpalash/VoiceStudio)**
+*GitHub • 3538 points, ⭐ 67,050 stars*
+[Discuss](https://github.com/debpalash/VoiceStudio)
 
-**[bilawalsidhu/gods-eye-view — A spy satellite simulator in your browser, except the data is real. Live open source spatial…](https://github.com/bilawalsidhu/gods-eye-view)**
-*GitHub • 1961 points, ⭐ 55,775 stars*
-[Discuss](https://github.com/bilawalsidhu/gods-eye-view)
+**[ifixai-ai/iFixAi — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial…](https://github.com/ifixai-ai/iFixAi)**
+*GitHub • 2109 points, ⭐ 27,766 stars*
+[Discuss](https://github.com/ifixai-ai/iFixAi)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[cathrynlavery/diagram-design — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44…](https://github.com/cathrynlavery/diagram-design)**
-*GitHub • 1815 points, ⭐ 54,546 stars*
-[Discuss](https://github.com/cathrynlavery/diagram-design)
-
-**[debpalash/VoiceStudio — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,…](https://github.com/debpalash/VoiceStudio)**
-*GitHub • 1748 points, ⭐ 64,054 stars*
-[Discuss](https://github.com/debpalash/VoiceStudio)
-
 **[xtool-org/xtool — Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.](https://github.com/xtool-org/xtool)**
-*GitHub • 1198 points, ⭐ 9,715 stars*
+*GitHub • 1502 points, ⭐ 11,118 stars*
 [Discuss](https://github.com/xtool-org/xtool)
 
-**[Gemini 4 Argon](https://deepmind.google/models/gemini/)**
-*HN • 1173 points, 836 comments*
-[Discuss](https://news.ycombinator.com/item?id=50073879)
+**[Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)**
+*HN • 1085 points, 273 comments*
+[Discuss](https://news.ycombinator.com/item?id=50093568)
+
+**[vxcontrol/pentagi — Fully autonomous AI Agents system capable of performing complex penetration testing tasks](https://github.com/vxcontrol/pentagi)**
+*GitHub • 1025 points, ⭐ 29,861 stars*
+[Discuss](https://github.com/vxcontrol/pentagi)
+
+**[NationalSecurityAgency/ghidra — Ghidra is a software reverse engineering (SRE) framework](https://github.com/NationalSecurityAgency/ghidra)**
+*GitHub • 1008 points, ⭐ 87,820 stars*
+[Discuss](https://github.com/NationalSecurityAgency/ghidra)
 
 ---
 
 ## 🔵 WATCH
 
-- **lyogavin/airllm — AirLLM 2.8T LLM inference with single 4GB GPU** — *GitHub, 1001 pts, ⭐ 38,460 stars*
-- **mksglu/context-mode — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists…** — *GitHub, 969 pts, ⭐ 28,444 stars*
-- **Redesigning source control at Anthropic** — *HN, 668 pts, 641 comments*
-- **Ledger confirms spy chip implant behind wallet crypto thefts** — *HN, 587 pts, 391 comments*
-- **Thunderbird for iOS** — *HN, 398 pts, 173 comments*
+- **mksglu/context-mode — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists…** — *GitHub, 947 pts, ⭐ 29,327 stars*
+- **Do dentists know what they're doing?** — *HN, 575 pts, 409 comments*
+- **OpenCode 2.0** — *HN, 472 pts, 195 comments*
+- **Americans' social activity has steeply declined in the past 30 years** — *HN, 317 pts, 317 comments*
+- **Tiny Little Office** — *HN, 276 pts, 41 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-14 06:00 UTC*
+*Generated: 2026-10-15 06:00 UTC*
