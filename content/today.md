@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-15
+# BRIEF — 2026-10-16
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[morluto/rea — Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea)**
-*GitHub • 41034 points, ⭐ 249,807 stars*
+*GitHub • 32314 points, ⭐ 276,320 stars*
 [Discuss](https://github.com/morluto/rea)
 
 **[debpalash/VoiceStudio — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,…](https://github.com/debpalash/VoiceStudio)**
-*GitHub • 3538 points, ⭐ 67,050 stars*
+*GitHub • 3024 points, ⭐ 69,542 stars*
 [Discuss](https://github.com/debpalash/VoiceStudio)
 
-**[ifixai-ai/iFixAi — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial…](https://github.com/ifixai-ai/iFixAi)**
-*GitHub • 2109 points, ⭐ 27,766 stars*
-[Discuss](https://github.com/ifixai-ai/iFixAi)
+**[NationalSecurityAgency/ghidra — Ghidra is a software reverse engineering (SRE) framework](https://github.com/NationalSecurityAgency/ghidra)**
+*GitHub • 1369 points, ⭐ 89,012 stars*
+[Discuss](https://github.com/NationalSecurityAgency/ghidra)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[xtool-org/xtool — Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.](https://github.com/xtool-org/xtool)**
-*GitHub • 1502 points, ⭐ 11,118 stars*
-[Discuss](https://github.com/xtool-org/xtool)
+**[K-Dense-AI/scientific-agent-skills — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+…](https://github.com/K-Dense-AI/scientific-agent-skills)**
+*GitHub • 1091 points, ⭐ 50,751 stars*
+[Discuss](https://github.com/K-Dense-AI/scientific-agent-skills)
 
-**[Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)**
-*HN • 1085 points, 273 comments*
-[Discuss](https://news.ycombinator.com/item?id=50093568)
+**[affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and…](https://github.com/affaan-m/ECC)**
+*GitHub • 1013 points, ⭐ 280,605 stars*
+[Discuss](https://github.com/affaan-m/ECC)
 
-**[vxcontrol/pentagi — Fully autonomous AI Agents system capable of performing complex penetration testing tasks](https://github.com/vxcontrol/pentagi)**
-*GitHub • 1025 points, ⭐ 29,861 stars*
-[Discuss](https://github.com/vxcontrol/pentagi)
+**[LibreSpark/LibreTV — 一分钟搭建影视站，支持Docker等部署方式](https://github.com/LibreSpark/LibreTV)**
+*GitHub • 978 points, ⭐ 18,264 stars*
+[Discuss](https://github.com/LibreSpark/LibreTV)
 
-**[NationalSecurityAgency/ghidra — Ghidra is a software reverse engineering (SRE) framework](https://github.com/NationalSecurityAgency/ghidra)**
-*GitHub • 1008 points, ⭐ 87,820 stars*
-[Discuss](https://github.com/NationalSecurityAgency/ghidra)
+**[mksglu/context-mode — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists…](https://github.com/mksglu/context-mode)**
+*GitHub • 904 points, ⭐ 29,894 stars*
+[Discuss](https://github.com/mksglu/context-mode)
 
 ---
 
 ## 🔵 WATCH
 
-- **mksglu/context-mode — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists…** — *GitHub, 947 pts, ⭐ 29,327 stars*
-- **Do dentists know what they're doing?** — *HN, 575 pts, 409 comments*
-- **OpenCode 2.0** — *HN, 472 pts, 195 comments*
-- **Americans' social activity has steeply declined in the past 30 years** — *HN, 317 pts, 317 comments*
-- **Tiny Little Office** — *HN, 276 pts, 41 comments*
+- **Muse Spark Open** — *HN, 729 pts, 381 comments*
+- **xerj-org/xerj — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your…** — *GitHub, 715 pts, ⭐ 5,935 stars*
+- **Neural networks are clean** — *HN, 604 pts, 226 comments*
+- **Wayland desktop for Linux with skeuomorphic design** — *HN, 563 pts, 223 comments*
+- **AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware** — *HN, 433 pts, 589 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-15 06:00 UTC*
+*Generated: 2026-10-16 06:00 UTC*
