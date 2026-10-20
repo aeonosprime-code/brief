@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-19
+# BRIEF — 2026-10-20
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code:…](https://github.com/MadsLorentzen/ai-job-search)**
-*GitHub • 2232 points, ⭐ 54,108 stars*
+*GitHub • 3856 points, ⭐ 58,062 stars*
 [Discuss](https://github.com/MadsLorentzen/ai-job-search)
 
-**[debpalash/VoiceStudio — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,…](https://github.com/debpalash/VoiceStudio)**
-*GitHub • 2082 points, ⭐ 76,011 stars*
-[Discuss](https://github.com/debpalash/VoiceStudio)
+**[stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding…](https://github.com/stablyai/orca)**
+*GitHub • 1590 points, ⭐ 98,611 stars*
+[Discuss](https://github.com/stablyai/orca)
 
 **[anomalyco/opencode — The open source coding agent.](https://github.com/anomalyco/opencode)**
-*GitHub • 1414 points, ⭐ 216,856 stars*
+*GitHub • 1311 points, ⭐ 218,062 stars*
 [Discuss](https://github.com/anomalyco/opencode)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[anthropics/claude-plugins-official — Official, Anthropic-managed directory of high quality Claude Code Plugins.](https://github.com/anthropics/claude-plugins-official)**
-*GitHub • 1175 points, ⭐ 42,865 stars*
-[Discuss](https://github.com/anthropics/claude-plugins-official)
+**[Comfy-Org/ComfyUI — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.…](https://github.com/Comfy-Org/ComfyUI)**
+*GitHub • 1011 points, ⭐ 139,997 stars*
+[Discuss](https://github.com/Comfy-Org/ComfyUI)
 
-**[stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding…](https://github.com/stablyai/orca)**
-*GitHub • 1146 points, ⭐ 97,065 stars*
-[Discuss](https://github.com/stablyai/orca)
+**[akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different…](https://github.com/akitaonrails/ai-memory)**
+*GitHub • 666 points, ⭐ 11,535 stars*
+[Discuss](https://github.com/akitaonrails/ai-memory)
 
 **[HKUDS/CLI-Anything — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/](https://github.com/HKUDS/CLI-Anything)**
-*GitHub • 589 points, ⭐ 54,770 stars*
+*GitHub • 606 points, ⭐ 55,393 stars*
 [Discuss](https://github.com/HKUDS/CLI-Anything)
 
 **[ruvnet/ruflo — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous…](https://github.com/ruvnet/ruflo)**
-*GitHub • 513 points, ⭐ 76,682 stars*
+*GitHub • 564 points, ⭐ 77,349 stars*
 [Discuss](https://github.com/ruvnet/ruflo)
 
 ---
 
 ## 🔵 WATCH
 
-- **akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different…** — *GitHub, 512 pts, ⭐ 10,681 stars*
-- **Someone behind the software** — *HN, 381 pts, 151 comments*
-- **RepRapMicron** — *HN, 363 pts, 56 comments*
-- **Hybrid Reasoning Agents: LLM agents that think in latent space, act through text** — *HN, 312 pts, 162 comments*
-- **There's never been a better time to go into math (by: 3blue1brown) [video]** — *HN, 276 pts, 331 comments*
+- **Wine ported to OpenBSD** — *HN, 538 pts, 178 comments*
+- **It's still ok to enjoy programming** — *HN, 524 pts, 481 comments*
+- **Kruk2/jasna — Video restoration tool** — *GitHub, 498 pts, ⭐ 3,022 stars*
+- **I built a drone with only one motor [video]** — *HN, 480 pts, 103 comments*
+- **MiniMax M3.1 Flash** — *HN, 428 pts, 187 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-19 06:00 UTC*
+*Generated: 2026-10-20 06:00 UTC*
