@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-20
+# BRIEF — 2026-10-21
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code:…](https://github.com/MadsLorentzen/ai-job-search)**
-*GitHub • 3856 points, ⭐ 58,062 stars*
+*GitHub • 3861 points, ⭐ 61,256 stars*
 [Discuss](https://github.com/MadsLorentzen/ai-job-search)
 
-**[stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding…](https://github.com/stablyai/orca)**
-*GitHub • 1590 points, ⭐ 98,611 stars*
-[Discuss](https://github.com/stablyai/orca)
+**[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
+*GitHub • 1712 points, ⭐ 34,635 stars*
+[Discuss](https://github.com/cloudflare/security-audit-skill)
 
-**[anomalyco/opencode — The open source coding agent.](https://github.com/anomalyco/opencode)**
-*GitHub • 1311 points, ⭐ 218,062 stars*
-[Discuss](https://github.com/anomalyco/opencode)
+**[stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding…](https://github.com/stablyai/orca)**
+*GitHub • 1565 points, ⭐ 100,079 stars*
+[Discuss](https://github.com/stablyai/orca)
 
 ---
 
 ## 🟡 NOTABLE
 
+**[anomalyco/opencode — The open source coding agent.](https://github.com/anomalyco/opencode)**
+*GitHub • 1240 points, ⭐ 219,160 stars*
+[Discuss](https://github.com/anomalyco/opencode)
+
+**[DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you…](https://github.com/DietrichGebert/ponytail)**
+*GitHub • 1208 points, ⭐ 170,170 stars*
+[Discuss](https://github.com/DietrichGebert/ponytail)
+
 **[Comfy-Org/ComfyUI — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.…](https://github.com/Comfy-Org/ComfyUI)**
-*GitHub • 1011 points, ⭐ 139,997 stars*
+*GitHub • 1206 points, ⭐ 140,975 stars*
 [Discuss](https://github.com/Comfy-Org/ComfyUI)
 
-**[akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different…](https://github.com/akitaonrails/ai-memory)**
-*GitHub • 666 points, ⭐ 11,535 stars*
-[Discuss](https://github.com/akitaonrails/ai-memory)
-
-**[HKUDS/CLI-Anything — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/](https://github.com/HKUDS/CLI-Anything)**
-*GitHub • 606 points, ⭐ 55,393 stars*
-[Discuss](https://github.com/HKUDS/CLI-Anything)
-
-**[ruvnet/ruflo — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous…](https://github.com/ruvnet/ruflo)**
-*GitHub • 564 points, ⭐ 77,349 stars*
-[Discuss](https://github.com/ruvnet/ruflo)
+**[Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.…](https://github.com/Graphify-Labs/graphify)**
+*GitHub • 802 points, ⭐ 130,551 stars*
+[Discuss](https://github.com/Graphify-Labs/graphify)
 
 ---
 
 ## 🔵 WATCH
 
-- **Wine ported to OpenBSD** — *HN, 538 pts, 178 comments*
-- **It's still ok to enjoy programming** — *HN, 524 pts, 481 comments*
-- **Kruk2/jasna — Video restoration tool** — *GitHub, 498 pts, ⭐ 3,022 stars*
-- **I built a drone with only one motor [video]** — *HN, 480 pts, 103 comments*
-- **MiniMax M3.1 Flash** — *HN, 428 pts, 187 comments*
+- **eMudhra intermediate CA compromise** — *HN, 794 pts, 368 comments*
+- **shiyu-coder/Kronos — Kronos: A Foundation Model for the Language of Financial Markets** — *GitHub, 733 pts, ⭐ 42,457 stars*
+- **Show HN: SimCity, but with Permits** — *HN, 687 pts, 352 comments*
+- **Voxtral 3** — *HN, 587 pts, 149 comments*
+- **Google open-sources TorchTPU, a native PyTorch back end for TPUs** — *HN, 309 pts, 68 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-20 06:00 UTC*
+*Generated: 2026-10-21 06:00 UTC*
