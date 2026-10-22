@@ -1,51 +1,51 @@
-# BRIEF — 2026-10-21
+# BRIEF — 2026-10-22
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code:…](https://github.com/MadsLorentzen/ai-job-search)**
-*GitHub • 3861 points, ⭐ 61,256 stars*
-[Discuss](https://github.com/MadsLorentzen/ai-job-search)
+**[DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you…](https://github.com/DietrichGebert/ponytail)**
+*GitHub • 2079 points, ⭐ 172,054 stars*
+[Discuss](https://github.com/DietrichGebert/ponytail)
 
 **[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
-*GitHub • 1712 points, ⭐ 34,635 stars*
+*GitHub • 2012 points, ⭐ 37,222 stars*
 [Discuss](https://github.com/cloudflare/security-audit-skill)
 
 **[stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding…](https://github.com/stablyai/orca)**
-*GitHub • 1565 points, ⭐ 100,079 stars*
+*GitHub • 1541 points, ⭐ 101,680 stars*
 [Discuss](https://github.com/stablyai/orca)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[anomalyco/opencode — The open source coding agent.](https://github.com/anomalyco/opencode)**
-*GitHub • 1240 points, ⭐ 219,160 stars*
-[Discuss](https://github.com/anomalyco/opencode)
-
-**[DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you…](https://github.com/DietrichGebert/ponytail)**
-*GitHub • 1208 points, ⭐ 170,170 stars*
-[Discuss](https://github.com/DietrichGebert/ponytail)
+**[Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.…](https://github.com/Graphify-Labs/graphify)**
+*GitHub • 1433 points, ⭐ 131,931 stars*
+[Discuss](https://github.com/Graphify-Labs/graphify)
 
 **[Comfy-Org/ComfyUI — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.…](https://github.com/Comfy-Org/ComfyUI)**
-*GitHub • 1206 points, ⭐ 140,975 stars*
+*GitHub • 939 points, ⭐ 141,689 stars*
 [Discuss](https://github.com/Comfy-Org/ComfyUI)
 
-**[Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.…](https://github.com/Graphify-Labs/graphify)**
-*GitHub • 802 points, ⭐ 130,551 stars*
-[Discuss](https://github.com/Graphify-Labs/graphify)
+**[shiyu-coder/Kronos — Kronos: A Foundation Model for the Language of Financial Markets](https://github.com/shiyu-coder/Kronos)**
+*GitHub • 575 points, ⭐ 42,952 stars*
+[Discuss](https://github.com/shiyu-coder/Kronos)
+
+**[supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your…](https://github.com/supabase/supabase)**
+*GitHub • 504 points, ⭐ 113,145 stars*
+[Discuss](https://github.com/supabase/supabase)
 
 ---
 
 ## 🔵 WATCH
 
-- **eMudhra intermediate CA compromise** — *HN, 794 pts, 368 comments*
-- **shiyu-coder/Kronos — Kronos: A Foundation Model for the Language of Financial Markets** — *GitHub, 733 pts, ⭐ 42,457 stars*
-- **Show HN: SimCity, but with Permits** — *HN, 687 pts, 352 comments*
-- **Voxtral 3** — *HN, 587 pts, 149 comments*
-- **Google open-sources TorchTPU, a native PyTorch back end for TPUs** — *HN, 309 pts, 68 comments*
+- **Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor** — *HN, 475 pts, 160 comments*
+- **headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for…** — *GitHub, 474 pts, ⭐ 77,379 stars*
+- **Security Disclosure** — *HN, 397 pts, 232 comments*
+- **mitmproxy adds --emudhra option** — *HN, 372 pts, 95 comments*
+- **There isn't an easy exploit for this PHP vulnerability** — *HN, 371 pts, 172 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-21 06:00 UTC*
+*Generated: 2026-10-22 06:00 UTC*
