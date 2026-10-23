@@ -1,51 +1,51 @@
-# BRIEF — 2026-10-22
+# BRIEF — 2026-10-23
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you…](https://github.com/DietrichGebert/ponytail)**
-*GitHub • 2079 points, ⭐ 172,054 stars*
-[Discuss](https://github.com/DietrichGebert/ponytail)
-
 **[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
-*GitHub • 2012 points, ⭐ 37,222 stars*
+*GitHub • 2979 points, ⭐ 40,031 stars*
 [Discuss](https://github.com/cloudflare/security-audit-skill)
 
-**[stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding…](https://github.com/stablyai/orca)**
-*GitHub • 1541 points, ⭐ 101,680 stars*
-[Discuss](https://github.com/stablyai/orca)
+**[DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you…](https://github.com/DietrichGebert/ponytail)**
+*GitHub • 1948 points, ⭐ 173,857 stars*
+[Discuss](https://github.com/DietrichGebert/ponytail)
+
+**[Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.…](https://github.com/Graphify-Labs/graphify)**
+*GitHub • 1408 points, ⭐ 133,236 stars*
+[Discuss](https://github.com/Graphify-Labs/graphify)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.…](https://github.com/Graphify-Labs/graphify)**
-*GitHub • 1433 points, ⭐ 131,931 stars*
-[Discuss](https://github.com/Graphify-Labs/graphify)
-
-**[Comfy-Org/ComfyUI — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.…](https://github.com/Comfy-Org/ComfyUI)**
-*GitHub • 939 points, ⭐ 141,689 stars*
-[Discuss](https://github.com/Comfy-Org/ComfyUI)
-
-**[shiyu-coder/Kronos — Kronos: A Foundation Model for the Language of Financial Markets](https://github.com/shiyu-coder/Kronos)**
-*GitHub • 575 points, ⭐ 42,952 stars*
-[Discuss](https://github.com/shiyu-coder/Kronos)
+**[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)**
+*HN • 1102 points, 385 comments*
+[Discuss](https://news.ycombinator.com/item?id=50195959)
 
 **[supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your…](https://github.com/supabase/supabase)**
-*GitHub • 504 points, ⭐ 113,145 stars*
+*GitHub • 693 points, ⭐ 113,583 stars*
 [Discuss](https://github.com/supabase/supabase)
+
+**[Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)**
+*HN • 616 points, 612 comments*
+[Discuss](https://news.ycombinator.com/item?id=50194833)
+
+**[What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)**
+*HN • 438 points, 208 comments*
+[Discuss](https://news.ycombinator.com/item?id=50150163)
 
 ---
 
 ## 🔵 WATCH
 
-- **Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor** — *HN, 475 pts, 160 comments*
-- **headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for…** — *GitHub, 474 pts, ⭐ 77,379 stars*
-- **Security Disclosure** — *HN, 397 pts, 232 comments*
-- **mitmproxy adds --emudhra option** — *HN, 372 pts, 95 comments*
-- **There isn't an easy exploit for this PHP vulnerability** — *HN, 371 pts, 172 comments*
+- **Run full iOS 16.5 firmware on Android Devices** — *HN, 374 pts, 137 comments*
+- **OpenShell – A safe, private runtime for fleets of autonomous AI agents** — *HN, 352 pts, 184 comments*
+- **Every AI model has the same "controversial" take on humans** — *HN, 321 pts, 355 comments*
+- **Docker is weird** — *HN, 306 pts, 149 comments*
+- **anthropics/knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork** — *GitHub, 303 pts, ⭐ 31,753 stars*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-22 06:00 UTC*
+*Generated: 2026-10-23 06:00 UTC*
