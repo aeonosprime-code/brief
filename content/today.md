@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-23
+# BRIEF — 2026-10-24
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
-*GitHub • 2979 points, ⭐ 40,031 stars*
+*GitHub • 2716 points, ⭐ 42,535 stars*
 [Discuss](https://github.com/cloudflare/security-audit-skill)
 
-**[DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you…](https://github.com/DietrichGebert/ponytail)**
-*GitHub • 1948 points, ⭐ 173,857 stars*
-[Discuss](https://github.com/DietrichGebert/ponytail)
+**[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)**
+*HN • 1332 points, 229 comments*
+[Discuss](https://news.ycombinator.com/item?id=50202285)
 
-**[Graphify-Labs/graphify — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.…](https://github.com/Graphify-Labs/graphify)**
-*GitHub • 1408 points, ⭐ 133,236 stars*
-[Discuss](https://github.com/Graphify-Labs/graphify)
+**[NVIDIA/OpenShell — OpenShell is the safe, private runtime for autonomous AI agents.](https://github.com/NVIDIA/OpenShell)**
+*GitHub • 1119 points, ⭐ 18,934 stars*
+[Discuss](https://github.com/NVIDIA/OpenShell)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)**
-*HN • 1102 points, 385 comments*
-[Discuss](https://news.ycombinator.com/item?id=50195959)
+**[Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)**
+*HN • 829 points, 493 comments*
+[Discuss](https://news.ycombinator.com/item?id=50212065)
 
-**[supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your…](https://github.com/supabase/supabase)**
-*GitHub • 693 points, ⭐ 113,583 stars*
-[Discuss](https://github.com/supabase/supabase)
+**[Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)**
+*HN • 812 points, 537 comments*
+[Discuss](https://news.ycombinator.com/item?id=50211474)
 
-**[Woman charged with computer fraud due to scam CashApp account being in her name](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)**
-*HN • 616 points, 612 comments*
-[Discuss](https://news.ycombinator.com/item?id=50194833)
+**[php/php-src — The PHP Interpreter](https://github.com/php/php-src)**
+*GitHub • 716 points, ⭐ 41,601 stars*
+[Discuss](https://github.com/php/php-src)
 
-**[What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)**
-*HN • 438 points, 208 comments*
-[Discuss](https://news.ycombinator.com/item?id=50150163)
+**[Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)**
+*HN • 695 points, 214 comments*
+[Discuss](https://news.ycombinator.com/item?id=50207910)
 
 ---
 
 ## 🔵 WATCH
 
-- **Run full iOS 16.5 firmware on Android Devices** — *HN, 374 pts, 137 comments*
-- **OpenShell – A safe, private runtime for fleets of autonomous AI agents** — *HN, 352 pts, 184 comments*
-- **Every AI model has the same "controversial" take on humans** — *HN, 321 pts, 355 comments*
-- **Docker is weird** — *HN, 306 pts, 149 comments*
-- **anthropics/knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork** — *GitHub, 303 pts, ⭐ 31,753 stars*
+- **anthropics/knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork** — *GitHub, 635 pts, ⭐ 32,344 stars*
+- **Renhuai123/ziwei-doushu — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据** — *GitHub, 546 pts, ⭐ 7,018 stars*
+- **Canadians are running out of time to oppose Bill C-22** — *HN, 382 pts, 205 comments*
+- **Dessa: Conversation Model trained only on speech** — *HN, 326 pts, 127 comments*
+- **The Real Kevin Bacon** — *HN, 277 pts, 76 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-23 06:00 UTC*
+*Generated: 2026-10-24 06:00 UTC*
