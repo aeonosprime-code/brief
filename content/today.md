@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-24
+# BRIEF — 2026-10-25
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
-*GitHub • 2716 points, ⭐ 42,535 stars*
+*GitHub • 2264 points, ⭐ 45,203 stars*
 [Discuss](https://github.com/cloudflare/security-audit-skill)
 
-**[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)**
-*HN • 1332 points, 229 comments*
-[Discuss](https://news.ycombinator.com/item?id=50202285)
-
 **[NVIDIA/OpenShell — OpenShell is the safe, private runtime for autonomous AI agents.](https://github.com/NVIDIA/OpenShell)**
-*GitHub • 1119 points, ⭐ 18,934 stars*
+*GitHub • 896 points, ⭐ 19,628 stars*
 [Discuss](https://github.com/NVIDIA/OpenShell)
+
+**[pbakaus/impeccable — The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)**
+*GitHub • 619 points, ⭐ 86,664 stars*
+[Discuss](https://github.com/pbakaus/impeccable)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)**
-*HN • 829 points, 493 comments*
-[Discuss](https://news.ycombinator.com/item?id=50212065)
+**[makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。](https://github.com/makecindy/cindy)**
+*GitHub • 477 points, ⭐ 4,269 stars*
+[Discuss](https://github.com/makecindy/cindy)
 
-**[Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)**
-*HN • 812 points, 537 comments*
-[Discuss](https://news.ycombinator.com/item?id=50211474)
+**[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
+*GitHub • 455 points, ⭐ 32,498 stars*
+[Discuss](https://github.com/Nutlope/hallmark)
 
-**[php/php-src — The PHP Interpreter](https://github.com/php/php-src)**
-*GitHub • 716 points, ⭐ 41,601 stars*
-[Discuss](https://github.com/php/php-src)
+**[luongnv89/claude-howto — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with…](https://github.com/luongnv89/claude-howto)**
+*GitHub • 392 points, ⭐ 44,736 stars*
+[Discuss](https://github.com/luongnv89/claude-howto)
 
-**[Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)**
-*HN • 695 points, 214 comments*
-[Discuss](https://news.ycombinator.com/item?id=50207910)
+**[The Goose Programming Language](https://aardappel.github.io/goose/)**
+*HN • 337 points, 225 comments*
+[Discuss](https://news.ycombinator.com/item?id=50224100)
 
 ---
 
 ## 🔵 WATCH
 
-- **anthropics/knowledge-work-plugins — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork** — *GitHub, 635 pts, ⭐ 32,344 stars*
-- **Renhuai123/ziwei-doushu — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据** — *GitHub, 546 pts, ⭐ 7,018 stars*
-- **Canadians are running out of time to oppose Bill C-22** — *HN, 382 pts, 205 comments*
-- **Dessa: Conversation Model trained only on speech** — *HN, 326 pts, 127 comments*
-- **The Real Kevin Bacon** — *HN, 277 pts, 76 comments*
+- **pollen-robotics/microduck — A Tiny biped duck robot 🦆** — *GitHub, 319 pts, ⭐ 11,154 stars*
+- **We should be more ambitious with the software we build** — *HN, 318 pts, 282 comments*
+- **America has lost 200k of jobs in media, film and the arts. How much is AI?** — *HN, 302 pts, 304 comments*
+- **I don't understand quantum physics (2018)** — *HN, 301 pts, 239 comments*
+- **FreeDNS** — *HN, 275 pts, 69 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-24 06:00 UTC*
+*Generated: 2026-10-25 07:00 UTC*
