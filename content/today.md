@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-25
+# BRIEF — 2026-10-26
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
-*GitHub • 2264 points, ⭐ 45,203 stars*
+*GitHub • 2878 points, ⭐ 47,391 stars*
 [Discuss](https://github.com/cloudflare/security-audit-skill)
 
-**[NVIDIA/OpenShell — OpenShell is the safe, private runtime for autonomous AI agents.](https://github.com/NVIDIA/OpenShell)**
-*GitHub • 896 points, ⭐ 19,628 stars*
-[Discuss](https://github.com/NVIDIA/OpenShell)
+**[debpalash/VoiceStudio — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,…](https://github.com/debpalash/VoiceStudio)**
+*GitHub • 1592 points, ⭐ 87,415 stars*
+[Discuss](https://github.com/debpalash/VoiceStudio)
 
-**[pbakaus/impeccable — The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)**
-*GitHub • 619 points, ⭐ 86,664 stars*
-[Discuss](https://github.com/pbakaus/impeccable)
+**[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
+*GitHub • 1317 points, ⭐ 34,496 stars*
+[Discuss](https://github.com/Nutlope/hallmark)
 
 ---
 
 ## 🟡 NOTABLE
 
+**[pbakaus/impeccable — The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)**
+*GitHub • 1092 points, ⭐ 88,109 stars*
+[Discuss](https://github.com/pbakaus/impeccable)
+
 **[makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。](https://github.com/makecindy/cindy)**
-*GitHub • 477 points, ⭐ 4,269 stars*
+*GitHub • 675 points, ⭐ 5,299 stars*
 [Discuss](https://github.com/makecindy/cindy)
 
-**[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
-*GitHub • 455 points, ⭐ 32,498 stars*
-[Discuss](https://github.com/Nutlope/hallmark)
+**[pollen-robotics/microduck — A Tiny biped duck robot 🦆](https://github.com/pollen-robotics/microduck)**
+*GitHub • 647 points, ⭐ 11,921 stars*
+[Discuss](https://github.com/pollen-robotics/microduck)
 
-**[luongnv89/claude-howto — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with…](https://github.com/luongnv89/claude-howto)**
-*GitHub • 392 points, ⭐ 44,736 stars*
-[Discuss](https://github.com/luongnv89/claude-howto)
-
-**[The Goose Programming Language](https://aardappel.github.io/goose/)**
-*HN • 337 points, 225 comments*
-[Discuss](https://news.ycombinator.com/item?id=50224100)
+**[Dolly Parton's Imagination Library](https://imaginationlibrary.com/)**
+*HN • 497 points, 88 comments*
+[Discuss](https://news.ycombinator.com/item?id=50234474)
 
 ---
 
 ## 🔵 WATCH
 
-- **pollen-robotics/microduck — A Tiny biped duck robot 🦆** — *GitHub, 319 pts, ⭐ 11,154 stars*
-- **We should be more ambitious with the software we build** — *HN, 318 pts, 282 comments*
-- **America has lost 200k of jobs in media, film and the arts. How much is AI?** — *HN, 302 pts, 304 comments*
-- **I don't understand quantum physics (2018)** — *HN, 301 pts, 239 comments*
-- **FreeDNS** — *HN, 275 pts, 69 comments*
+- **TauricResearch/TradingAgents — TradingAgents: Multi-Agents LLM Financial Trading Framework** — *GitHub, 381 pts, ⭐ 114,952 stars*
+- **Lula wins election after final votes tallied** — *HN, 348 pts, 321 comments*
+- **Overgrown, when plants invade your abandoned tabs** — *HN, 239 pts, 76 comments*
+- **Renhuai123/ziwei-doushu — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据** — *GitHub, 199 pts, ⭐ 7,957 stars*
+- **Why I Am a Programmer** — *HN, 191 pts, 59 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-25 07:00 UTC*
+*Generated: 2026-10-26 07:00 UTC*
