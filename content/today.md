@@ -1,51 +1,51 @@
-# BRIEF — 2026-10-27
+# BRIEF — 2026-10-28
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[debpalash/VoiceStudio — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,…](https://github.com/debpalash/VoiceStudio)**
-*GitHub • 2297 points, ⭐ 89,915 stars*
-[Discuss](https://github.com/debpalash/VoiceStudio)
-
 **[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
-*GitHub • 2244 points, ⭐ 37,158 stars*
+*GitHub • 2830 points, ⭐ 39,470 stars*
 [Discuss](https://github.com/Nutlope/hallmark)
 
-**[pbakaus/impeccable — The design language that makes your AI harness better at design.](https://github.com/pbakaus/impeccable)**
-*GitHub • 1506 points, ⭐ 89,543 stars*
-[Discuss](https://github.com/pbakaus/impeccable)
+**[HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.](https://github.com/HKUDS/DeepTutor)**
+*GitHub • 1598 points, ⭐ 46,600 stars*
+[Discuss](https://github.com/HKUDS/DeepTutor)
+
+**[makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。](https://github.com/makecindy/cindy)**
+*GitHub • 1465 points, ⭐ 7,691 stars*
+[Discuss](https://github.com/makecindy/cindy)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[TauricResearch/TradingAgents — TradingAgents: Multi-Agents LLM Financial Trading Framework](https://github.com/TauricResearch/TradingAgents)**
-*GitHub • 1395 points, ⭐ 116,579 stars*
-[Discuss](https://github.com/TauricResearch/TradingAgents)
+**[pbakaus/impeccable — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and…](https://github.com/pbakaus/impeccable)**
+*GitHub • 1449 points, ⭐ 90,997 stars*
+[Discuss](https://github.com/pbakaus/impeccable)
 
-**[makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。](https://github.com/makecindy/cindy)**
-*GitHub • 1296 points, ⭐ 6,878 stars*
-[Discuss](https://github.com/makecindy/cindy)
+**[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)**
+*GitHub • 1395 points, ⭐ 9,990 stars*
+[Discuss](https://github.com/elayadesign/ai-design-skills)
 
 **[JetBrains/thinkrail — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The…](https://github.com/JetBrains/thinkrail)**
-*GitHub • 1173 points, ⭐ 3,242 stars*
+*GitHub • 1204 points, ⭐ 4,343 stars*
 [Discuss](https://github.com/JetBrains/thinkrail)
 
 **[affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and…](https://github.com/affaan-m/ECC)**
-*GitHub • 896 points, ⭐ 290,094 stars*
+*GitHub • 1165 points, ⭐ 291,121 stars*
 [Discuss](https://github.com/affaan-m/ECC)
 
 ---
 
 ## 🔵 WATCH
 
-- **pollen-robotics/microduck — A Tiny biped duck robot 🦆** — *GitHub, 843 pts, ⭐ 12,567 stars*
-- **Three new discoveries in mathematics, computer science, and physics** — *HN, 764 pts, 335 comments*
-- **Sebastian Raschka's from-scratch video course on building reasoning models** — *HN, 660 pts, 92 comments*
-- **The Exponential Time Hypothesis Is False [pdf]** — *HN, 536 pts, 196 comments*
-- **CSS-Tricks has a new owner** — *HN, 430 pts, 96 comments*
+- **gitroomhq/postiz-app — 📨 The ultimate agentic social media scheduling tool 🤖** — *GitHub, 951 pts, ⭐ 39,647 stars*
+- **Ghostty 1.4** — *HN, 916 pts, 285 comments*
+- **Genie 4** — *HN, 832 pts, 495 comments*
+- **Python's experimental JIT to be removed** — *HN, 484 pts, 255 comments*
+- **New 14‑inch MacBook Pro with M6** — *HN, 334 pts, 423 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-27 07:00 UTC*
+*Generated: 2026-10-28 07:00 UTC*
