@@ -1,51 +1,51 @@
-# BRIEF — 2026-10-28
+# BRIEF — 2026-10-29
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
-*GitHub • 2830 points, ⭐ 39,470 stars*
-[Discuss](https://github.com/Nutlope/hallmark)
-
 **[HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.](https://github.com/HKUDS/DeepTutor)**
-*GitHub • 1598 points, ⭐ 46,600 stars*
+*GitHub • 2371 points, ⭐ 48,591 stars*
 [Discuss](https://github.com/HKUDS/DeepTutor)
 
-**[makecindy/cindy — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。](https://github.com/makecindy/cindy)**
-*GitHub • 1465 points, ⭐ 7,691 stars*
-[Discuss](https://github.com/makecindy/cindy)
+**[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)**
+*GitHub • 2139 points, ⭐ 11,447 stars*
+[Discuss](https://github.com/elayadesign/ai-design-skills)
+
+**[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
+*GitHub • 2110 points, ⭐ 41,081 stars*
+[Discuss](https://github.com/Nutlope/hallmark)
 
 ---
 
 ## 🟡 NOTABLE
 
+**[hmjz100/LinkSwift — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 /…](https://github.com/hmjz100/LinkSwift)**
+*GitHub • 1616 points, ⭐ 35,528 stars*
+[Discuss](https://github.com/hmjz100/LinkSwift)
+
+**[togg53192-cmd/jailbreaks — LIST OF ALL MY JAILBREAKS](https://github.com/togg53192-cmd/jailbreaks)**
+*GitHub • 1477 points, ⭐ 7,544 stars*
+[Discuss](https://github.com/togg53192-cmd/jailbreaks)
+
 **[pbakaus/impeccable — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and…](https://github.com/pbakaus/impeccable)**
-*GitHub • 1449 points, ⭐ 90,997 stars*
+*GitHub • 1472 points, ⭐ 93,488 stars*
 [Discuss](https://github.com/pbakaus/impeccable)
 
-**[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)**
-*GitHub • 1395 points, ⭐ 9,990 stars*
-[Discuss](https://github.com/elayadesign/ai-design-skills)
-
-**[JetBrains/thinkrail — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The…](https://github.com/JetBrains/thinkrail)**
-*GitHub • 1204 points, ⭐ 4,343 stars*
-[Discuss](https://github.com/JetBrains/thinkrail)
-
-**[affaan-m/ECC — The agent harness performance optimization system. Skills, instincts, memory, security, and…](https://github.com/affaan-m/ECC)**
-*GitHub • 1165 points, ⭐ 291,121 stars*
-[Discuss](https://github.com/affaan-m/ECC)
+**[obra/superpowers — An agentic skills framework &amp; software development methodology that works.](https://github.com/obra/superpowers)**
+*GitHub • 1095 points, ⭐ 307,678 stars*
+[Discuss](https://github.com/obra/superpowers)
 
 ---
 
 ## 🔵 WATCH
 
-- **gitroomhq/postiz-app — 📨 The ultimate agentic social media scheduling tool 🤖** — *GitHub, 951 pts, ⭐ 39,647 stars*
-- **Ghostty 1.4** — *HN, 916 pts, 285 comments*
-- **Genie 4** — *HN, 832 pts, 495 comments*
-- **Python's experimental JIT to be removed** — *HN, 484 pts, 255 comments*
-- **New 14‑inch MacBook Pro with M6** — *HN, 334 pts, 423 comments*
+- **JetBrains/thinkrail — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The…** — *GitHub, 1068 pts, ⭐ 5,394 stars*
+- **Why is this fingerprinting script creating bioweapons?** — *HN, 1055 pts, 216 comments*
+- **Gemini 4 Carbon** — *HN, 881 pts, 729 comments*
+- **The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand** — *HN, 484 pts, 216 comments*
+- **CNC Stone Carving** — *HN, 451 pts, 125 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-28 07:00 UTC*
+*Generated: 2026-10-29 07:00 UTC*
