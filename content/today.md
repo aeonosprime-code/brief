@@ -1,51 +1,51 @@
-# BRIEF — 2026-10-29
+# BRIEF — 2026-10-30
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
+**[pbakaus/impeccable — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and…](https://github.com/pbakaus/impeccable)**
+*GitHub • 2870 points, ⭐ 95,909 stars*
+[Discuss](https://github.com/pbakaus/impeccable)
+
 **[HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.](https://github.com/HKUDS/DeepTutor)**
-*GitHub • 2371 points, ⭐ 48,591 stars*
+*GitHub • 1930 points, ⭐ 50,796 stars*
 [Discuss](https://github.com/HKUDS/DeepTutor)
 
-**[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)**
-*GitHub • 2139 points, ⭐ 11,447 stars*
-[Discuss](https://github.com/elayadesign/ai-design-skills)
-
-**[Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.](https://github.com/Nutlope/hallmark)**
-*GitHub • 2110 points, ⭐ 41,081 stars*
-[Discuss](https://github.com/Nutlope/hallmark)
+**[togg53192-cmd/jailbreaks — LIST OF ALL MY JAILBREAKS](https://github.com/togg53192-cmd/jailbreaks)**
+*GitHub • 1594 points, ⭐ 9,558 stars*
+[Discuss](https://github.com/togg53192-cmd/jailbreaks)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[hmjz100/LinkSwift — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 /…](https://github.com/hmjz100/LinkSwift)**
-*GitHub • 1616 points, ⭐ 35,528 stars*
-[Discuss](https://github.com/hmjz100/LinkSwift)
+**[We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)**
+*HN • 1347 points, 365 comments*
+[Discuss](https://news.ycombinator.com/item?id=50289418)
 
-**[togg53192-cmd/jailbreaks — LIST OF ALL MY JAILBREAKS](https://github.com/togg53192-cmd/jailbreaks)**
-*GitHub • 1477 points, ⭐ 7,544 stars*
-[Discuss](https://github.com/togg53192-cmd/jailbreaks)
+**[milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use](https://github.com/milind-soni/OpenMausBot)**
+*GitHub • 1199 points, ⭐ 7,703 stars*
+[Discuss](https://github.com/milind-soni/OpenMausBot)
 
-**[pbakaus/impeccable — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and…](https://github.com/pbakaus/impeccable)**
-*GitHub • 1472 points, ⭐ 93,488 stars*
-[Discuss](https://github.com/pbakaus/impeccable)
+**[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)**
+*GitHub • 1187 points, ⭐ 12,490 stars*
+[Discuss](https://github.com/elayadesign/ai-design-skills)
 
-**[obra/superpowers — An agentic skills framework &amp; software development methodology that works.](https://github.com/obra/superpowers)**
-*GitHub • 1095 points, ⭐ 307,678 stars*
-[Discuss](https://github.com/obra/superpowers)
+**[Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)**
+*HN • 1119 points, 670 comments*
+[Discuss](https://news.ycombinator.com/item?id=50296470)
 
 ---
 
 ## 🔵 WATCH
 
-- **JetBrains/thinkrail — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The…** — *GitHub, 1068 pts, ⭐ 5,394 stars*
-- **Why is this fingerprinting script creating bioweapons?** — *HN, 1055 pts, 216 comments*
-- **Gemini 4 Carbon** — *HN, 881 pts, 729 comments*
-- **The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand** — *HN, 484 pts, 216 comments*
-- **CNC Stone Carving** — *HN, 451 pts, 125 comments*
+- **JetBrains/thinkrail — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The…** — *GitHub, 1117 pts, ⭐ 6,197 stars*
+- **obra/superpowers — An agentic skills framework &amp; software development methodology that works.** — *GitHub, 1034 pts, ⭐ 308,854 stars*
+- **nightly-labs/openbot — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with…** — *GitHub, 709 pts, ⭐ 4,035 stars*
+- **LLM Voice** — *HN, 428 pts, 219 comments*
+- **H.264 Is Magic (2016)** — *HN, 387 pts, 143 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-29 07:00 UTC*
+*Generated: 2026-10-30 07:00 UTC*
