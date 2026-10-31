@@ -1,4 +1,4 @@
-# BRIEF — 2026-10-30
+# BRIEF — 2026-10-31
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[pbakaus/impeccable — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and…](https://github.com/pbakaus/impeccable)**
-*GitHub • 2870 points, ⭐ 95,909 stars*
+*GitHub • 2300 points, ⭐ 97,395 stars*
 [Discuss](https://github.com/pbakaus/impeccable)
 
 **[HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.](https://github.com/HKUDS/DeepTutor)**
-*GitHub • 1930 points, ⭐ 50,796 stars*
+*GitHub • 2282 points, ⭐ 52,005 stars*
 [Discuss](https://github.com/HKUDS/DeepTutor)
 
 **[togg53192-cmd/jailbreaks — LIST OF ALL MY JAILBREAKS](https://github.com/togg53192-cmd/jailbreaks)**
-*GitHub • 1594 points, ⭐ 9,558 stars*
+*GitHub • 2055 points, ⭐ 11,533 stars*
 [Discuss](https://github.com/togg53192-cmd/jailbreaks)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)**
-*HN • 1347 points, 365 comments*
-[Discuss](https://news.ycombinator.com/item?id=50289418)
+**[obra/superpowers — An agentic skills framework &amp; software development methodology that works.](https://github.com/obra/superpowers)**
+*GitHub • 1259 points, ⭐ 309,577 stars*
+[Discuss](https://github.com/obra/superpowers)
 
-**[milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use](https://github.com/milind-soni/OpenMausBot)**
-*GitHub • 1199 points, ⭐ 7,703 stars*
-[Discuss](https://github.com/milind-soni/OpenMausBot)
+**[thedotmack/claude-mem — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during…](https://github.com/thedotmack/claude-mem)**
+*GitHub • 1140 points, ⭐ 106,683 stars*
+[Discuss](https://github.com/thedotmack/claude-mem)
 
-**[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)**
-*GitHub • 1187 points, ⭐ 12,490 stars*
-[Discuss](https://github.com/elayadesign/ai-design-skills)
+**[Renhuai123/ziwei-doushu — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据](https://github.com/Renhuai123/ziwei-doushu)**
+*GitHub • 1126 points, ⭐ 11,568 stars*
+[Discuss](https://github.com/Renhuai123/ziwei-doushu)
 
-**[Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)**
-*HN • 1119 points, 670 comments*
-[Discuss](https://news.ycombinator.com/item?id=50296470)
+**[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
+*GitHub • 930 points, ⭐ 33,064 stars*
+[Discuss](https://github.com/pingdotgg/t3code)
 
 ---
 
 ## 🔵 WATCH
 
-- **JetBrains/thinkrail — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The…** — *GitHub, 1117 pts, ⭐ 6,197 stars*
-- **obra/superpowers — An agentic skills framework &amp; software development methodology that works.** — *GitHub, 1034 pts, ⭐ 308,854 stars*
-- **nightly-labs/openbot — A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with…** — *GitHub, 709 pts, ⭐ 4,035 stars*
-- **LLM Voice** — *HN, 428 pts, 219 comments*
-- **H.264 Is Magic (2016)** — *HN, 387 pts, 143 comments*
+- **milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use** — *GitHub, 895 pts, ⭐ 8,954 stars*
+- **Northflank Breached** — *HN, 410 pts, 301 comments*
+- **The $6.3B Binance hack was pulled off in just 20 minutes** — *HN, 409 pts, 273 comments*
+- **My favourite PowerMac is a Nintendo Wii** — *HN, 282 pts, 79 comments*
+- **The federated code forge** — *HN, 265 pts, 82 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-10-30 07:00 UTC*
+*Generated: 2026-10-31 07:00 UTC*
