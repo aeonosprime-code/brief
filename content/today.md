@@ -1,51 +1,51 @@
-# BRIEF — 2026-11-01
+# BRIEF — 2026-11-02
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
+**[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
+*GitHub • 3094 points, ⭐ 38,786 stars*
+[Discuss](https://github.com/pingdotgg/t3code)
+
+**[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
+*HN • 2456 points, 555 comments*
+[Discuss](https://news.ycombinator.com/item?id=50319510)
+
 **[thedotmack/claude-mem — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during…](https://github.com/thedotmack/claude-mem)**
-*GitHub • 1723 points, ⭐ 108,183 stars*
+*GitHub • 1526 points, ⭐ 109,800 stars*
 [Discuss](https://github.com/thedotmack/claude-mem)
-
-**[pbakaus/impeccable — The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and…](https://github.com/pbakaus/impeccable)**
-*GitHub • 1338 points, ⭐ 98,552 stars*
-[Discuss](https://github.com/pbakaus/impeccable)
-
-**[milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use](https://github.com/milind-soni/OpenMausBot)**
-*GitHub • 1303 points, ⭐ 9,896 stars*
-[Discuss](https://github.com/milind-soni/OpenMausBot)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[pingdotgg/t3code](https://github.com/pingdotgg/t3code)**
-*GitHub • 1148 points, ⭐ 36,061 stars*
-[Discuss](https://github.com/pingdotgg/t3code)
+**[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
+*HN • 1218 points, 219 comments*
+[Discuss](https://news.ycombinator.com/item?id=50326821)
 
-**[Renhuai123/ziwei-doushu — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据](https://github.com/Renhuai123/ziwei-doushu)**
-*GitHub • 1092 points, ⭐ 12,526 stars*
-[Discuss](https://github.com/Renhuai123/ziwei-doushu)
+**[patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub)**
+*GitHub • 1191 points, ⭐ 40,582 stars*
+[Discuss](https://github.com/patchy631/ai-engineering-hub)
 
-**[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
-*HN • 1079 points, 324 comments*
-[Discuss](https://news.ycombinator.com/item?id=50319510)
+**[anomalyco/hex — Local voice dictation for mac, windows and linux](https://github.com/anomalyco/hex)**
+*GitHub • 1179 points, ⭐ 3,587 stars*
+[Discuss](https://github.com/anomalyco/hex)
 
-**[Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal…](https://github.com/Orkas-AI/Orkas)**
-*GitHub • 1044 points, ⭐ 6,880 stars*
-[Discuss](https://github.com/Orkas-AI/Orkas)
+**[Donchitos/Claude-Code-Game-Studios — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete…](https://github.com/Donchitos/Claude-Code-Game-Studios)**
+*GitHub • 967 points, ⭐ 32,680 stars*
+[Discuss](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
 ---
 
 ## 🔵 WATCH
 
-- **HKUDS/DeepTutor — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.** — *GitHub, 1034 pts, ⭐ 53,102 stars*
-- **lightpanda-io/browser — Lightpanda: the headless browser designed for AI and automation** — *GitHub, 929 pts, ⭐ 39,415 stars*
-- **TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8** — *HN, 457 pts, 208 comments*
-- **An Italian farmer found some unknown seeds in his attic and planted them** — *HN, 317 pts, 90 comments*
-- **Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard** — *HN, 179 pts, 94 comments*
+- **Renhuai123/ziwei-doushu — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据** — *GitHub, 941 pts, ⭐ 13,555 stars*
+- **milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use** — *GitHub, 922 pts, ⭐ 10,835 stars*
+- **lightpanda-io/browser — Lightpanda: the headless browser designed for AI and automation** — *GitHub, 825 pts, ⭐ 40,509 stars*
+- **Postgres 19 is late because so many more bugs are being found now** — *HN, 277 pts, 179 comments*
+- **Ask HN: Which TV do you recommend for privacy?** — *HN, 277 pts, 434 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-01 07:00 UTC*
+*Generated: 2026-11-02 07:00 UTC*
