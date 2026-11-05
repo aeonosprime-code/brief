@@ -1,4 +1,4 @@
-# BRIEF — 2026-11-04
+# BRIEF — 2026-11-05
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[vercel-labs/agent-desktop — Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)**
-*GitHub • 3791 points, ⭐ 13,420 stars*
+*GitHub • 2470 points, ⭐ 15,727 stars*
 [Discuss](https://github.com/vercel-labs/agent-desktop)
 
-**[D4Vinci/Scrapling — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale…](https://github.com/D4Vinci/Scrapling)**
-*GitHub • 1658 points, ⭐ 95,317 stars*
-[Discuss](https://github.com/D4Vinci/Scrapling)
+**[NVIDIA/auto-ontology — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data.…](https://github.com/NVIDIA/auto-ontology)**
+*GitHub • 2050 points, ⭐ 5,745 stars*
+[Discuss](https://github.com/NVIDIA/auto-ontology)
 
-**[Donchitos/Claude-Code-Game-Studios — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete…](https://github.com/Donchitos/Claude-Code-Game-Studios)**
-*GitHub • 1182 points, ⭐ 34,916 stars*
-[Discuss](https://github.com/Donchitos/Claude-Code-Game-Studios)
+**[D4Vinci/Scrapling — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale…](https://github.com/D4Vinci/Scrapling)**
+*GitHub • 2005 points, ⭐ 96,971 stars*
+[Discuss](https://github.com/D4Vinci/Scrapling)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)**
-*HN • 1179 points, 389 comments*
-[Discuss](https://news.ycombinator.com/item?id=50354960)
+**[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)**
+*GitHub • 1778 points, ⭐ 6,820 stars*
+[Discuss](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
 **[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
-*GitHub • 1164 points, ⭐ 311,800 stars*
+*GitHub • 1379 points, ⭐ 313,731 stars*
 [Discuss](https://github.com/mattpocock/skills)
 
 **[thedotmack/claude-mem — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during…](https://github.com/thedotmack/claude-mem)**
-*GitHub • 1139 points, ⭐ 112,203 stars*
+*GitHub • 1172 points, ⭐ 113,086 stars*
 [Discuss](https://github.com/thedotmack/claude-mem)
 
-**[JustVugg/colibri — A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan),…](https://github.com/JustVugg/colibri)**
-*GitHub • 802 points, ⭐ 47,411 stars*
-[Discuss](https://github.com/JustVugg/colibri)
+**[floci-io/floci — Light, fluffy, and always free - The AWS Local Emulator alternative](https://github.com/floci-io/floci)**
+*GitHub • 1090 points, ⭐ 29,818 stars*
+[Discuss](https://github.com/floci-io/floci)
 
 ---
 
 ## 🔵 WATCH
 
-- **Jailbreaking my car's navigation system just so I can change the time** — *HN, 734 pts, 297 comments*
-- **p-e-w/heretic — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and…** — *GitHub, 701 pts, ⭐ 39,002 stars*
-- **Qwen 3.8 27B on my laptop can interpret model weights, too** — *HN, 571 pts, 171 comments*
-- **Stringman, an $800 open-source room scale gripper robot** — *HN, 514 pts, 177 comments*
-- **shiyu-coder/Kronos — Kronos: A Foundation Model for the Language of Financial Markets** — *GitHub, 503 pts, ⭐ 46,626 stars*
+- **Residential proxies detected on White House network** — *HN, 911 pts, 276 comments*
+- **github/spec-kit — 💫 Toolkit to help you get started with SDD or any other process!** — *GitHub, 808 pts, ⭐ 147,489 stars*
+- **Kimi K3.1 Pro model weights are out** — *HN, 475 pts, 135 comments*
+- **A new Go API for JSON** — *HN, 278 pts, 128 comments*
+- **Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding** — *HN, 274 pts, 99 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-04 07:00 UTC*
+*Generated: 2026-11-05 07:00 UTC*
