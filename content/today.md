@@ -1,51 +1,51 @@
-# BRIEF — 2026-11-05
+# BRIEF — 2026-11-06
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[vercel-labs/agent-desktop — Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)**
-*GitHub • 2470 points, ⭐ 15,727 stars*
-[Discuss](https://github.com/vercel-labs/agent-desktop)
-
 **[NVIDIA/auto-ontology — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data.…](https://github.com/NVIDIA/auto-ontology)**
-*GitHub • 2050 points, ⭐ 5,745 stars*
+*GitHub • 2679 points, ⭐ 7,874 stars*
 [Discuss](https://github.com/NVIDIA/auto-ontology)
 
-**[D4Vinci/Scrapling — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale…](https://github.com/D4Vinci/Scrapling)**
-*GitHub • 2005 points, ⭐ 96,971 stars*
-[Discuss](https://github.com/D4Vinci/Scrapling)
+**[sshole](https://sshhole.com)**
+*HN • 2559 points, 622 comments*
+[Discuss](https://news.ycombinator.com/item?id=50378228)
+
+**[vercel-labs/agent-desktop — Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)**
+*GitHub • 2173 points, ⭐ 17,319 stars*
+[Discuss](https://github.com/vercel-labs/agent-desktop)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)**
-*GitHub • 1778 points, ⭐ 6,820 stars*
-[Discuss](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-
 **[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
-*GitHub • 1379 points, ⭐ 313,731 stars*
+*GitHub • 2071 points, ⭐ 315,716 stars*
 [Discuss](https://github.com/mattpocock/skills)
 
-**[thedotmack/claude-mem — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during…](https://github.com/thedotmack/claude-mem)**
-*GitHub • 1172 points, ⭐ 113,086 stars*
-[Discuss](https://github.com/thedotmack/claude-mem)
+**[D4Vinci/Scrapling — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale…](https://github.com/D4Vinci/Scrapling)**
+*GitHub • 1655 points, ⭐ 98,330 stars*
+[Discuss](https://github.com/D4Vinci/Scrapling)
 
-**[floci-io/floci — Light, fluffy, and always free - The AWS Local Emulator alternative](https://github.com/floci-io/floci)**
-*GitHub • 1090 points, ⭐ 29,818 stars*
-[Discuss](https://github.com/floci-io/floci)
+**[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)**
+*GitHub • 984 points, ⭐ 7,463 stars*
+[Discuss](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+**[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
+*HN • 891 points, 296 comments*
+[Discuss](https://news.ycombinator.com/item?id=50385272)
 
 ---
 
 ## 🔵 WATCH
 
-- **Residential proxies detected on White House network** — *HN, 911 pts, 276 comments*
-- **github/spec-kit — 💫 Toolkit to help you get started with SDD or any other process!** — *GitHub, 808 pts, ⭐ 147,489 stars*
-- **Kimi K3.1 Pro model weights are out** — *HN, 475 pts, 135 comments*
-- **A new Go API for JSON** — *HN, 278 pts, 128 comments*
-- **Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding** — *HN, 274 pts, 99 comments*
+- **floci-io/floci — Light, fluffy, and always free - The AWS Local Emulator alternative** — *GitHub, 779 pts, ⭐ 30,602 stars*
+- **scenario-labs/skills — Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right…** — *GitHub, 667 pts, ⭐ 3,241 stars*
+- **garrytan/gstack — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng…** — *GitHub, 612 pts, ⭐ 140,154 stars*
+- **MS Paint Remote Code Execution Vulnerability** — *HN, 459 pts, 174 comments*
+- **Window Sweaters** — *HN, 299 pts, 93 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-05 07:00 UTC*
+*Generated: 2026-11-06 07:00 UTC*
