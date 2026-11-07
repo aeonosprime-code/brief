@@ -1,51 +1,51 @@
-# BRIEF — 2026-11-06
+# BRIEF — 2026-11-07
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
+**[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
+*GitHub • 2548 points, ⭐ 64,455 stars*
+[Discuss](https://github.com/cloudflare/security-audit-skill)
+
+**[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
+*GitHub • 2070 points, ⭐ 316,946 stars*
+[Discuss](https://github.com/mattpocock/skills)
+
 **[NVIDIA/auto-ontology — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data.…](https://github.com/NVIDIA/auto-ontology)**
-*GitHub • 2679 points, ⭐ 7,874 stars*
+*GitHub • 2015 points, ⭐ 9,341 stars*
 [Discuss](https://github.com/NVIDIA/auto-ontology)
-
-**[sshole](https://sshhole.com)**
-*HN • 2559 points, 622 comments*
-[Discuss](https://news.ycombinator.com/item?id=50378228)
-
-**[vercel-labs/agent-desktop — Computer use CLI for AI agents](https://github.com/vercel-labs/agent-desktop)**
-*GitHub • 2173 points, ⭐ 17,319 stars*
-[Discuss](https://github.com/vercel-labs/agent-desktop)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
-*GitHub • 2071 points, ⭐ 315,716 stars*
-[Discuss](https://github.com/mattpocock/skills)
+**[Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)**
+*HN • 962 points, 1816 comments*
+[Discuss](https://news.ycombinator.com/item?id=50391456)
 
-**[D4Vinci/Scrapling — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale…](https://github.com/D4Vinci/Scrapling)**
-*GitHub • 1655 points, ⭐ 98,330 stars*
-[Discuss](https://github.com/D4Vinci/Scrapling)
+**[google/skills — Agent Skills for Google products and technologies](https://github.com/google/skills)**
+*GitHub • 534 points, ⭐ 22,957 stars*
+[Discuss](https://github.com/google/skills)
 
-**[JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)**
-*GitHub • 984 points, ⭐ 7,463 stars*
-[Discuss](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+**[Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)**
+*HN • 484 points, 78 comments*
+[Discuss](https://news.ycombinator.com/item?id=50399933)
 
-**[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
-*HN • 891 points, 296 comments*
-[Discuss](https://news.ycombinator.com/item?id=50385272)
+**[A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)**
+*HN • 425 points, 96 comments*
+[Discuss](https://news.ycombinator.com/item?id=50397429)
 
 ---
 
 ## 🔵 WATCH
 
-- **floci-io/floci — Light, fluffy, and always free - The AWS Local Emulator alternative** — *GitHub, 779 pts, ⭐ 30,602 stars*
-- **scenario-labs/skills — Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right…** — *GitHub, 667 pts, ⭐ 3,241 stars*
-- **garrytan/gstack — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng…** — *GitHub, 612 pts, ⭐ 140,154 stars*
-- **MS Paint Remote Code Execution Vulnerability** — *HN, 459 pts, 174 comments*
-- **Window Sweaters** — *HN, 299 pts, 93 comments*
+- **US FAA says it will phase out floppy disks from air traffic control by 2028** — *HN, 319 pts, 258 comments*
+- **lz4/lz4 — Extremely Fast Compression algorithm** — *GitHub, 315 pts, ⭐ 12,649 stars*
+- **zed-industries/zed — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators…** — *GitHub, 306 pts, ⭐ 93,842 stars*
+- **microsoft/vscode — Visual Studio Code** — *GitHub, 301 pts, ⭐ 195,083 stars*
+- **AI is dramatically accelerating AI research** — *HN, 271 pts, 210 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-06 07:00 UTC*
+*Generated: 2026-11-07 07:00 UTC*
