@@ -1,4 +1,4 @@
-# BRIEF — 2026-11-07
+# BRIEF — 2026-11-08
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
-*GitHub • 2548 points, ⭐ 64,455 stars*
+*GitHub • 2085 points, ⭐ 66,056 stars*
 [Discuss](https://github.com/cloudflare/security-audit-skill)
 
-**[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
-*GitHub • 2070 points, ⭐ 316,946 stars*
-[Discuss](https://github.com/mattpocock/skills)
+**[milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use](https://github.com/milind-soni/OpenMausBot)**
+*GitHub • 1955 points, ⭐ 17,328 stars*
+[Discuss](https://github.com/milind-soni/OpenMausBot)
 
-**[NVIDIA/auto-ontology — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data.…](https://github.com/NVIDIA/auto-ontology)**
-*GitHub • 2015 points, ⭐ 9,341 stars*
-[Discuss](https://github.com/NVIDIA/auto-ontology)
+**[sherlock-project/sherlock — Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)**
+*GitHub • 1766 points, ⭐ 101,126 stars*
+[Discuss](https://github.com/sherlock-project/sherlock)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)**
-*HN • 962 points, 1816 comments*
-[Discuss](https://news.ycombinator.com/item?id=50391456)
+**[zed-industries/zed — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators…](https://github.com/zed-industries/zed)**
+*GitHub • 1114 points, ⭐ 94,358 stars*
+[Discuss](https://github.com/zed-industries/zed)
 
-**[google/skills — Agent Skills for Google products and technologies](https://github.com/google/skills)**
-*GitHub • 534 points, ⭐ 22,957 stars*
-[Discuss](https://github.com/google/skills)
+**[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
+*GitHub • 1100 points, ⭐ 317,951 stars*
+[Discuss](https://github.com/mattpocock/skills)
 
-**[Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)**
-*HN • 484 points, 78 comments*
-[Discuss](https://news.ycombinator.com/item?id=50399933)
+**[Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)**
+*HN • 915 points, 242 comments*
+[Discuss](https://news.ycombinator.com/item?id=50403052)
 
-**[A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)**
-*HN • 425 points, 96 comments*
-[Discuss](https://news.ycombinator.com/item?id=50397429)
+**[Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)**
+*HN • 679 points, 372 comments*
+[Discuss](https://news.ycombinator.com/item?id=50403097)
 
 ---
 
 ## 🔵 WATCH
 
-- **US FAA says it will phase out floppy disks from air traffic control by 2028** — *HN, 319 pts, 258 comments*
-- **lz4/lz4 — Extremely Fast Compression algorithm** — *GitHub, 315 pts, ⭐ 12,649 stars*
-- **zed-industries/zed — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators…** — *GitHub, 306 pts, ⭐ 93,842 stars*
-- **microsoft/vscode — Visual Studio Code** — *GitHub, 301 pts, ⭐ 195,083 stars*
-- **AI is dramatically accelerating AI research** — *HN, 271 pts, 210 comments*
+- **What I run on my $10 USD OpenStick homelab** — *HN, 502 pts, 99 comments*
+- **google/skills — Agent Skills for Google products and technologies** — *GitHub, 443 pts, ⭐ 23,532 stars*
+- **anthropics/skills — Public repository for Agent Skills** — *GitHub, 390 pts, ⭐ 188,949 stars*
+- **astral-sh/ruff — An extremely fast Python linter and code formatter, written in Rust.** — *GitHub, 350 pts, ⭐ 51,031 stars*
+- **Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files** — *HN, 320 pts, 221 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-07 07:00 UTC*
+*Generated: 2026-11-08 07:00 UTC*
