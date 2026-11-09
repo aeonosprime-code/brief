@@ -1,51 +1,51 @@
-# BRIEF — 2026-11-08
+# BRIEF — 2026-11-09
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[cloudflare/security-audit-skill — A coding-agent skill for multi-phase security audits with independently verified, machine-readable…](https://github.com/cloudflare/security-audit-skill)**
-*GitHub • 2085 points, ⭐ 66,056 stars*
-[Discuss](https://github.com/cloudflare/security-audit-skill)
+**[sherlock-project/sherlock — Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)**
+*GitHub • 2373 points, ⭐ 104,813 stars*
+[Discuss](https://github.com/sherlock-project/sherlock)
 
 **[milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use](https://github.com/milind-soni/OpenMausBot)**
-*GitHub • 1955 points, ⭐ 17,328 stars*
+*GitHub • 1439 points, ⭐ 18,780 stars*
 [Discuss](https://github.com/milind-soni/OpenMausBot)
 
-**[sherlock-project/sherlock — Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)**
-*GitHub • 1766 points, ⭐ 101,126 stars*
-[Discuss](https://github.com/sherlock-project/sherlock)
+**[meta/astryx — An open source design system that's fully customizable and agent ready](https://github.com/meta/astryx)**
+*GitHub • 875 points, ⭐ 17,686 stars*
+[Discuss](https://github.com/meta/astryx)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[zed-industries/zed — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators…](https://github.com/zed-industries/zed)**
-*GitHub • 1114 points, ⭐ 94,358 stars*
-[Discuss](https://github.com/zed-industries/zed)
+**[vercel-labs/agent-browser — Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)**
+*GitHub • 815 points, ⭐ 47,901 stars*
+[Discuss](https://github.com/vercel-labs/agent-browser)
 
-**[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
-*GitHub • 1100 points, ⭐ 317,951 stars*
-[Discuss](https://github.com/mattpocock/skills)
+**[anthropics/skills — Public repository for Agent Skills](https://github.com/anthropics/skills)**
+*GitHub • 792 points, ⭐ 189,935 stars*
+[Discuss](https://github.com/anthropics/skills)
 
-**[Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)**
-*HN • 915 points, 242 comments*
-[Discuss](https://news.ycombinator.com/item?id=50403052)
+**[Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)**
+*HN • 708 points, 391 comments*
+[Discuss](https://news.ycombinator.com/item?id=50415628)
 
-**[Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)**
-*HN • 679 points, 372 comments*
-[Discuss](https://news.ycombinator.com/item?id=50403097)
+**[Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company)**
+*HN • 529 points, 563 comments*
+[Discuss](https://news.ycombinator.com/item?id=50418016)
 
 ---
 
 ## 🔵 WATCH
 
-- **What I run on my $10 USD OpenStick homelab** — *HN, 502 pts, 99 comments*
-- **google/skills — Agent Skills for Google products and technologies** — *GitHub, 443 pts, ⭐ 23,532 stars*
-- **anthropics/skills — Public repository for Agent Skills** — *GitHub, 390 pts, ⭐ 188,949 stars*
-- **astral-sh/ruff — An extremely fast Python linter and code formatter, written in Rust.** — *GitHub, 350 pts, ⭐ 51,031 stars*
-- **Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files** — *HN, 320 pts, 221 comments*
+- **Declarative Dragging** — *HN, 467 pts, 62 comments*
+- **ranxianglei/billion-context — A context-compression plugin for month-long single sessions (billions of tokens) ,small context…** — *GitHub, 460 pts, ⭐ 5,398 stars*
+- **KetchUp – Open-source SketchUp alternative built with Rust and WebGPU** — *HN, 379 pts, 101 comments*
+- **Outlook.com is rejecting email from domains without DMARC** — *HN, 349 pts, 258 comments*
+- **dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.** — *GitHub, 345 pts, ⭐ 942 stars*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-08 07:00 UTC*
+*Generated: 2026-11-09 07:00 UTC*
