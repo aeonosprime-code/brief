@@ -1,51 +1,51 @@
-# BRIEF — 2026-11-10
+# BRIEF — 2026-11-11
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[sherlock-project/sherlock — Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)**
-*GitHub • 4267 points, ⭐ 107,744 stars*
-[Discuss](https://github.com/sherlock-project/sherlock)
-
 **[meta/astryx — An open source design system that's fully customizable and agent ready](https://github.com/meta/astryx)**
-*GitHub • 3278 points, ⭐ 20,856 stars*
+*GitHub • 3108 points, ⭐ 23,620 stars*
 [Discuss](https://github.com/meta/astryx)
 
-**[milind-soni/OpenMausBot — Open-source Grok Bot alternative with a virtual machine that bots can use](https://github.com/milind-soni/OpenMausBot)**
-*GitHub • 1587 points, ⭐ 20,078 stars*
-[Discuss](https://github.com/milind-soni/OpenMausBot)
+**[sherlock-project/sherlock — Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)**
+*GitHub • 2393 points, ⭐ 109,413 stars*
+[Discuss](https://github.com/sherlock-project/sherlock)
+
+**[anthropics/skills — Public repository for Agent Skills](https://github.com/anthropics/skills)**
+*GitHub • 1679 points, ⭐ 192,611 stars*
+[Discuss](https://github.com/anthropics/skills)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[anthropics/skills — Public repository for Agent Skills](https://github.com/anthropics/skills)**
-*GitHub • 1038 points, ⭐ 191,411 stars*
-[Discuss](https://github.com/anthropics/skills)
+**[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
+*GitHub • 1225 points, ⭐ 321,226 stars*
+[Discuss](https://github.com/mattpocock/skills)
 
-**[Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)**
-*HN • 952 points, 145 comments*
-[Discuss](https://news.ycombinator.com/item?id=50424581)
+**[Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)**
+*HN • 851 points, 303 comments*
+[Discuss](https://news.ycombinator.com/item?id=50441707)
+
+**[homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.](https://github.com/homeassistant-ai/ha-mcp)**
+*GitHub • 790 points, ⭐ 6,822 stars*
+[Discuss](https://github.com/homeassistant-ai/ha-mcp)
 
 **[vercel-labs/agent-browser — Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)**
-*GitHub • 916 points, ⭐ 48,715 stars*
+*GitHub • 780 points, ⭐ 49,439 stars*
 [Discuss](https://github.com/vercel-labs/agent-browser)
-
-**[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)**
-*HN • 586 points, 298 comments*
-[Discuss](https://news.ycombinator.com/item?id=50431058)
 
 ---
 
 ## 🔵 WATCH
 
-- **google-deepmind/mujoco — Multi-Joint dynamics with Contact. A general purpose physics simulator.** — *GitHub, 574 pts, ⭐ 17,053 stars*
-- **anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable…** — *GitHub, 551 pts, ⭐ 20,159 stars*
-- **Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system** — *HN, 512 pts, 281 comments*
-- **ZhuLinsen/daily_stock_analysis — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system…** — *GitHub, 506 pts, ⭐ 69,234 stars*
-- **Claude Fable 5.2 and Mythos 5.2** — *HN, 462 pts, 737 comments*
+- **.name Grandfathered** — *HN, 772 pts, 171 comments*
+- **AlphaProof Code** — *HN, 612 pts, 182 comments*
+- **anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable…** — *GitHub, 531 pts, ⭐ 20,631 stars*
+- **addyosmani/agent-skills — Production-grade engineering skills for AI coding agents.** — *GitHub, 465 pts, ⭐ 115,371 stars*
+- **Scion is back and is going to sell a kei truck in America** — *HN, 436 pts, 293 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-10 07:00 UTC*
+*Generated: 2026-11-11 07:00 UTC*
