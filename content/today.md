@@ -1,4 +1,4 @@
-# BRIEF — 2026-11-11
+# BRIEF — 2026-11-12
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[meta/astryx — An open source design system that's fully customizable and agent ready](https://github.com/meta/astryx)**
-*GitHub • 3108 points, ⭐ 23,620 stars*
+*GitHub • 2776 points, ⭐ 25,521 stars*
 [Discuss](https://github.com/meta/astryx)
 
-**[sherlock-project/sherlock — Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)**
-*GitHub • 2393 points, ⭐ 109,413 stars*
-[Discuss](https://github.com/sherlock-project/sherlock)
+**[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)**
+*HN • 1078 points, 121 comments*
+[Discuss](https://news.ycombinator.com/item?id=50450488)
 
-**[anthropics/skills — Public repository for Agent Skills](https://github.com/anthropics/skills)**
-*GitHub • 1679 points, ⭐ 192,611 stars*
-[Discuss](https://github.com/anthropics/skills)
+**[we-promise/sure — The personal finance app for everyone (by everyone)](https://github.com/we-promise/sure)**
+*GitHub • 1078 points, ⭐ 13,203 stars*
+[Discuss](https://github.com/we-promise/sure)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[mattpocock/skills — Skills for Real Engineers. Straight from my .agents directory.](https://github.com/mattpocock/skills)**
-*GitHub • 1225 points, ⭐ 321,226 stars*
-[Discuss](https://github.com/mattpocock/skills)
+**[Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)**
+*HN • 855 points, 1197 comments*
+[Discuss](https://news.ycombinator.com/item?id=50459703)
 
-**[Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)**
-*HN • 851 points, 303 comments*
-[Discuss](https://news.ycombinator.com/item?id=50441707)
+**[AWS emulator](https://github.com/aws/aws-emulator)**
+*HN • 789 points, 231 comments*
+[Discuss](https://news.ycombinator.com/item?id=50456631)
 
-**[homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.](https://github.com/homeassistant-ai/ha-mcp)**
-*GitHub • 790 points, ⭐ 6,822 stars*
-[Discuss](https://github.com/homeassistant-ai/ha-mcp)
+**[addyosmani/agent-skills — Production-grade engineering skills for AI coding agents.](https://github.com/addyosmani/agent-skills)**
+*GitHub • 787 points, ⭐ 116,157 stars*
+[Discuss](https://github.com/addyosmani/agent-skills)
 
 **[vercel-labs/agent-browser — Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)**
-*GitHub • 780 points, ⭐ 49,439 stars*
+*GitHub • 708 points, ⭐ 50,044 stars*
 [Discuss](https://github.com/vercel-labs/agent-browser)
 
 ---
 
 ## 🔵 WATCH
 
-- **.name Grandfathered** — *HN, 772 pts, 171 comments*
-- **AlphaProof Code** — *HN, 612 pts, 182 comments*
-- **anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable…** — *GitHub, 531 pts, ⭐ 20,631 stars*
-- **addyosmani/agent-skills — Production-grade engineering skills for AI coding agents.** — *GitHub, 465 pts, ⭐ 115,371 stars*
-- **Scion is back and is going to sell a kei truck in America** — *HN, 436 pts, 293 comments*
+- **homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.** — *GitHub, 645 pts, ⭐ 7,534 stars*
+- **United Airlines bans AI agents from booking flights on behalf of travelers** — *HN, 508 pts, 494 comments*
+- **A false smoke alarm almost drowned Jane Street's only NYC datacenter** — *HN, 462 pts, 234 comments*
+- **Gemini Decisions API** — *HN, 376 pts, 120 comments*
+- **shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.** — *GitHub, 361 pts, ⭐ 11,162 stars*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-11 07:00 UTC*
+*Generated: 2026-11-12 07:00 UTC*
