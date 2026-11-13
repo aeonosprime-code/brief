@@ -1,51 +1,51 @@
-# BRIEF — 2026-11-12
+# BRIEF — 2026-11-13
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
+**[Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)**
+*HN • 3332 points, 3024 comments*
+[Discuss](https://news.ycombinator.com/item?id=50467087)
+
 **[meta/astryx — An open source design system that's fully customizable and agent ready](https://github.com/meta/astryx)**
-*GitHub • 2776 points, ⭐ 25,521 stars*
+*GitHub • 1830 points, ⭐ 26,878 stars*
 [Discuss](https://github.com/meta/astryx)
 
-**[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)**
-*HN • 1078 points, 121 comments*
-[Discuss](https://news.ycombinator.com/item?id=50450488)
-
 **[we-promise/sure — The personal finance app for everyone (by everyone)](https://github.com/we-promise/sure)**
-*GitHub • 1078 points, ⭐ 13,203 stars*
+*GitHub • 967 points, ⭐ 14,176 stars*
 [Discuss](https://github.com/we-promise/sure)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)**
-*HN • 855 points, 1197 comments*
-[Discuss](https://news.ycombinator.com/item?id=50459703)
-
-**[AWS emulator](https://github.com/aws/aws-emulator)**
-*HN • 789 points, 231 comments*
-[Discuss](https://news.ycombinator.com/item?id=50456631)
-
 **[addyosmani/agent-skills — Production-grade engineering skills for AI coding agents.](https://github.com/addyosmani/agent-skills)**
-*GitHub • 787 points, ⭐ 116,157 stars*
+*GitHub • 816 points, ⭐ 116,848 stars*
 [Discuss](https://github.com/addyosmani/agent-skills)
 
-**[vercel-labs/agent-browser — Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser)**
-*GitHub • 708 points, ⭐ 50,044 stars*
-[Discuss](https://github.com/vercel-labs/agent-browser)
+**[Service degradation on Microsoft 365](https://status.cloud.microsoft/)**
+*HN • 740 points, 677 comments*
+[Discuss](https://news.ycombinator.com/item?id=50471731)
+
+**[GoogleChrome/modern-web-guidance-src — Keep your coding agent up to date with the latest web best practices](https://github.com/GoogleChrome/modern-web-guidance-src)**
+*GitHub • 739 points, ⭐ 3,614 stars*
+[Discuss](https://github.com/GoogleChrome/modern-web-guidance-src)
+
+**[openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security…](https://github.com/openai/codex-security)**
+*GitHub • 643 points, ⭐ 12,655 stars*
+[Discuss](https://github.com/openai/codex-security)
 
 ---
 
 ## 🔵 WATCH
 
-- **homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.** — *GitHub, 645 pts, ⭐ 7,534 stars*
-- **United Airlines bans AI agents from booking flights on behalf of travelers** — *HN, 508 pts, 494 comments*
-- **A false smoke alarm almost drowned Jane Street's only NYC datacenter** — *HN, 462 pts, 234 comments*
-- **Gemini Decisions API** — *HN, 376 pts, 120 comments*
-- **shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.** — *GitHub, 361 pts, ⭐ 11,162 stars*
+- **Rust 1.100** — *HN, 602 pts, 229 comments*
+- **Show HN: My $300 embroidery machine needed a subscription, so I built my own app** — *HN, 463 pts, 171 comments*
+- **Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free…** — *GitHub, 415 pts, ⭐ 69,531 stars*
+- **Nvidia employees petition to bring back Jensen Huang** — *HN, 404 pts, 306 comments*
+- **Gemini 4 Hydrogen and Orchestrator** — *HN, 384 pts, 104 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-12 07:00 UTC*
+*Generated: 2026-11-13 07:00 UTC*
