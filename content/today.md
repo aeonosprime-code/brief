@@ -1,51 +1,51 @@
-# BRIEF — 2026-11-13
+# BRIEF — 2026-11-14
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
 
 ## 🔴 CRITICAL
 
-**[Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)**
-*HN • 3332 points, 3024 comments*
-[Discuss](https://news.ycombinator.com/item?id=50467087)
+**[GoogleChrome/modern-web-guidance-src — Keep your coding agent up to date with the latest web best practices](https://github.com/GoogleChrome/modern-web-guidance-src)**
+*GitHub • 1925 points, ⭐ 5,085 stars*
+[Discuss](https://github.com/GoogleChrome/modern-web-guidance-src)
 
-**[meta/astryx — An open source design system that's fully customizable and agent ready](https://github.com/meta/astryx)**
-*GitHub • 1830 points, ⭐ 26,878 stars*
-[Discuss](https://github.com/meta/astryx)
+**[FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)**
+*HN • 1484 points, 1139 comments*
+[Discuss](https://news.ycombinator.com/item?id=50489641)
 
 **[we-promise/sure — The personal finance app for everyone (by everyone)](https://github.com/we-promise/sure)**
-*GitHub • 967 points, ⭐ 14,176 stars*
+*GitHub • 925 points, ⭐ 14,887 stars*
 [Discuss](https://github.com/we-promise/sure)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[addyosmani/agent-skills — Production-grade engineering skills for AI coding agents.](https://github.com/addyosmani/agent-skills)**
-*GitHub • 816 points, ⭐ 116,848 stars*
-[Discuss](https://github.com/addyosmani/agent-skills)
-
-**[Service degradation on Microsoft 365](https://status.cloud.microsoft/)**
-*HN • 740 points, 677 comments*
-[Discuss](https://news.ycombinator.com/item?id=50471731)
-
-**[GoogleChrome/modern-web-guidance-src — Keep your coding agent up to date with the latest web best practices](https://github.com/GoogleChrome/modern-web-guidance-src)**
-*GitHub • 739 points, ⭐ 3,614 stars*
-[Discuss](https://github.com/GoogleChrome/modern-web-guidance-src)
-
 **[openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security…](https://github.com/openai/codex-security)**
-*GitHub • 643 points, ⭐ 12,655 stars*
+*GitHub • 751 points, ⭐ 13,270 stars*
 [Discuss](https://github.com/openai/codex-security)
+
+**[Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)**
+*HN • 352 points, 181 comments*
+[Discuss](https://news.ycombinator.com/item?id=50493251)
+
+**[ZhuLinsen/daily_stock_analysis — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system…](https://github.com/ZhuLinsen/daily_stock_analysis)**
+*GitHub • 256 points, ⭐ 71,873 stars*
+[Discuss](https://github.com/ZhuLinsen/daily_stock_analysis)
+
+**[tailscale/tailcat — like netcat, but over Tailscale's data plane, without Tailscale's control plane](https://github.com/tailscale/tailcat)**
+*GitHub • 256 points, ⭐ 9,575 stars*
+[Discuss](https://github.com/tailscale/tailcat)
 
 ---
 
 ## 🔵 WATCH
 
-- **Rust 1.100** — *HN, 602 pts, 229 comments*
-- **Show HN: My $300 embroidery machine needed a subscription, so I built my own app** — *HN, 463 pts, 171 comments*
-- **Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free…** — *GitHub, 415 pts, ⭐ 69,531 stars*
-- **Nvidia employees petition to bring back Jensen Huang** — *HN, 404 pts, 306 comments*
-- **Gemini 4 Hydrogen and Orchestrator** — *HN, 384 pts, 104 comments*
+- **Likely7/Veyra-NRVideo — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool…** — *GitHub, 256 pts, ⭐ 1,723 stars*
+- **Live airband on all frequencies from KORS. Victoria, CA also ground stopped** — *HN, 253 pts, 58 comments*
+- **After 600 experiments, here's what I discovered about JEPA world models** — *HN, 244 pts, 40 comments*
+- **Jonathan Blow – If AI solved coding, why is my software still the same? [video]** — *HN, 233 pts, 228 comments*
+- **FM-1 Workbench** — *HN, 216 pts, 137 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-13 07:00 UTC*
+*Generated: 2026-11-14 07:00 UTC*
