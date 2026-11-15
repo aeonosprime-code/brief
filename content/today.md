@@ -1,4 +1,4 @@
-# BRIEF — 2026-11-14
+# BRIEF — 2026-11-15
 *Your daily signal digest. 5 minutes. No noise.*
 
 ---
@@ -6,46 +6,46 @@
 ## 🔴 CRITICAL
 
 **[GoogleChrome/modern-web-guidance-src — Keep your coding agent up to date with the latest web best practices](https://github.com/GoogleChrome/modern-web-guidance-src)**
-*GitHub • 1925 points, ⭐ 5,085 stars*
+*GitHub • 1231 points, ⭐ 6,302 stars*
 [Discuss](https://github.com/GoogleChrome/modern-web-guidance-src)
 
-**[FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)**
-*HN • 1484 points, 1139 comments*
-[Discuss](https://news.ycombinator.com/item?id=50489641)
+**[SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)**
+*HN • 1045 points, 698 comments*
+[Discuss](https://news.ycombinator.com/item?id=50500963)
 
-**[we-promise/sure — The personal finance app for everyone (by everyone)](https://github.com/we-promise/sure)**
-*GitHub • 925 points, ⭐ 14,887 stars*
-[Discuss](https://github.com/we-promise/sure)
+**[alibaba/open-code-review — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool:…](https://github.com/alibaba/open-code-review)**
+*GitHub • 893 points, ⭐ 51,571 stars*
+[Discuss](https://github.com/alibaba/open-code-review)
 
 ---
 
 ## 🟡 NOTABLE
 
-**[openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security…](https://github.com/openai/codex-security)**
-*GitHub • 751 points, ⭐ 13,270 stars*
-[Discuss](https://github.com/openai/codex-security)
+**[Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)**
+*HN • 757 points, 300 comments*
+[Discuss](https://news.ycombinator.com/item?id=50499017)
 
-**[Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)**
-*HN • 352 points, 181 comments*
-[Discuss](https://news.ycombinator.com/item?id=50493251)
+**[ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents](https://github.com/ChromeDevTools/chrome-devtools-mcp)**
+*GitHub • 664 points, ⭐ 56,463 stars*
+[Discuss](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
-**[ZhuLinsen/daily_stock_analysis — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system…](https://github.com/ZhuLinsen/daily_stock_analysis)**
-*GitHub • 256 points, ⭐ 71,873 stars*
-[Discuss](https://github.com/ZhuLinsen/daily_stock_analysis)
+**[we-promise/sure — The personal finance app for everyone (by everyone)](https://github.com/we-promise/sure)**
+*GitHub • 659 points, ⭐ 15,431 stars*
+[Discuss](https://github.com/we-promise/sure)
 
-**[tailscale/tailcat — like netcat, but over Tailscale's data plane, without Tailscale's control plane](https://github.com/tailscale/tailcat)**
-*GitHub • 256 points, ⭐ 9,575 stars*
-[Discuss](https://github.com/tailscale/tailcat)
+**[tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic…](https://github.com/tradermonty/claude-trading-skills)**
+*GitHub • 553 points, ⭐ 4,996 stars*
+[Discuss](https://github.com/tradermonty/claude-trading-skills)
 
 ---
 
 ## 🔵 WATCH
 
-- **Likely7/Veyra-NRVideo — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool…** — *GitHub, 256 pts, ⭐ 1,723 stars*
-- **Live airband on all frequencies from KORS. Victoria, CA also ground stopped** — *HN, 253 pts, 58 comments*
-- **After 600 experiments, here's what I discovered about JEPA world models** — *HN, 244 pts, 40 comments*
-- **Jonathan Blow – If AI solved coding, why is my software still the same? [video]** — *HN, 233 pts, 228 comments*
-- **FM-1 Workbench** — *HN, 216 pts, 137 comments*
+- **dream-num/univer — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and…** — *GitHub, 495 pts, ⭐ 25,093 stars*
+- **KDE: The documentary [video]** — *HN, 437 pts, 94 comments*
+- **louislam/uptime-kuma — A fancy self-hosted monitoring tool** — *GitHub, 430 pts, ⭐ 94,323 stars*
+- **Likely7/Veyra-NRVideo — Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool…** — *GitHub, 420 pts, ⭐ 2,417 stars*
+- **A family tree of software job titles** — *HN, 275 pts, 134 comments*
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 *Brief is collected by Aeonos. Solo operation.*
-*Generated: 2026-11-14 07:00 UTC*
+*Generated: 2026-11-15 07:00 UTC*
